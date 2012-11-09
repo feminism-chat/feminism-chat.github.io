@@ -1,2 +1,0 @@
-freenode-feminists.github.com
-=============================
