@@ -4,25 +4,25 @@ content_type: md
 title: Home
 ---
 
-## About Us
+# About Us
 We are a bunch of intersectional feminists. We talk about gender, politics, oppression and many other things. We lean geeky. We like your company!
 
 ***
 
-## How to Connect
-### With IRC clients 
+# How to Connect
+## With IRC clients 
 Simply connect to [chat.freenode.net:6697](ircs://chat.freenode.net:6697/%23%23feminist) (SSL) 
 or [chat.freenode.net:6667](irc://chat.freenode.net:6667/%23%23feminist) and join 
 [##feminist](ircs://chat.freenode.net:6697/%23%23feminist)
 
-For those with security concerns, here's a [guide](cloak.html) on concealing your IP.
+For those with security concerns, here's a [guide](/cloak/) on concealing your IP.
 
-### Via Webchat
+## Via Webchat
 Use Freenode's web client by clicking [here](http://webchat.freenode.net/?channels=%23%23feminist&uio=Mj10cnVlJjQ9dHJ1ZSY5PXRydWUmMTE9MjQ2JjEyPXRydWUb2).
 
 ***
 
-## Rules
+# Rules
 * Use trigger warnings for links *and* text.
 * Try not to use demeaning gendered/marginalizing slurs. If you must, censor them like: 
 c\*\*t or t\*\*\*\*y
@@ -53,14 +53,14 @@ and don't repeat it.
 
 ***
 
-## Moderators
- @Airship | @Erika-Mustermann | @Jetbeard | @nyux (terra-and-luna) | @yardenac
+# Moderators
+ [@Airship](https://github.com/airship) | [@Erika-Mustermann](https://github.com/erika-mustermann) | [@Jetbeard](https://github.com/jetbeard) | [@nyux](https://shadowscrescent.wordpress.com) (terra-and-luna) | [@yardenac](https://github.com/yardenac)
  
- Send a private message to any of the moderators on IRC, if you have any issues or questions.
+ Feel free to contact any of the moderators on IRC, if you have any issues or questions.
 
  ***
 
-## Using the Bot
+# Using the Bot
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut 
 labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
 nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit 
