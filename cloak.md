@@ -18,6 +18,6 @@ Now that you have a registered nick, you may request a cloak to conceal your IP.
 If a nick doesn't show up in the list, you have the option of waiting and trying again later or joining the public support channel #freenode and asking for a cloak there. It is not uncommon for many staffers to be available, but none listed in `/stats p`
 
 ## SASL
-The final step is making sure that your cloak is applied automatically whenever you connect to Freenode.  The simplest way to ensure this is with a login method known as SASL, which identifies you to NickServ and applies your cloak during the server connection process.  Unfortunately, not all clients support this.  Freenode has been kind enough to amass a [https://freenode.net/sasl/](list of clients with SASL support) as well as some guides on enabling it. If this is your first IRC client, we recommend HexChat for Windows/Linux and [http://inzain.net/textual-builds/](Textual IRC) for Mac.
+The final step is making sure that your cloak is applied automatically whenever you connect to Freenode.  The simplest way to ensure this is with a login method known as SASL, which identifies you to NickServ and applies your cloak during the server connection process.  Unfortunately, not all clients support this.  Freenode has been kind enough to amass a [list of clients with SASL support](https://freenode.net/sasl/) as well as some guides on enabling it. If this is your first IRC client, we recommend HexChat for Windows/Linux and [Textual IRC](http://inzain.net/textual-builds/) for Mac.
 
 Happy IRCing!
