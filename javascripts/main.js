@@ -50,4 +50,5 @@ fixScale = function(doc) {
     scales = [.25, 1.6];
     doc[addEvent](type, fix, true);
   }
+
 };
