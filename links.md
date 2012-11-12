@@ -5,6 +5,14 @@ title: Links
 ---
 
 # Links
+##Anarchism
+* [Socialism, Anarchism And Feminism](http://theanarchistlibrary.org/library/carol-ehrlich-socialism-anarchism-and-feminism) &raquo; ahorsenamedrex
+* [The Precarious Union of Anarchism and Feminism: A Response to 'Re-defining Radical Feminism'](http://theanarchistlibrary.org/library/red-sonja-nefac-boston-the-precarious-union-of-anarchism-and-feminism-a-response-to-re-defining) &raquo; ahorsenamedrex
+* [Anarchism and American Traditions](http://tmh.floonet.net/articles/vdc.html) &raquo; ahorsenamedrex
+
+## Philosophy
+* [Stanford Encyclopedia of Philosophy: Topics in Feminism](http://plato.stanford.edu/entries/feminism-topics/) &raquo; Erika Mustermann
+
 ## Disabilities
 
 ## Media Representation
@@ -14,11 +22,6 @@ title: Links
 * [Dances With Fat Blog](https://danceswithfat.wordpress.com/blog/) &raquo; Airship
 * [The Fat Nutritionist](http://www.fatnutritionist.com/) &raquo; starlurk
 * [Shapely Prose](http://kateharding.net/) &raquo; starlurk
-
-<!---
-## Feminism
-Everything on this page is about feminism. Having a separate heading for it seems... weird
---->
 
 
 ## GSRM
