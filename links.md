@@ -17,6 +17,8 @@ title: Links
 * [Dances With Fat Blog](https://danceswithfat.wordpress.com/blog/) &raquo; Airship
 * [The Fat Nutritionist](http://www.fatnutritionist.com/) &raquo; starlurk
 * [Shapely Prose](http://kateharding.net/) &raquo; starlurk
+* [This Is Thin Privilege](http://thisisthinprivilege.tumblr.com/) &raquo; Airship
+* [Two Whole Cakes](http://blog.twowholecakes.com/) &raquo; Airship
 
 ## GSRM
 * [A Genderqueer Menace](http://gqmenace.wordpress.com/)
