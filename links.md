@@ -21,22 +21,24 @@ title: Links
 * [Two Whole Cakes](http://blog.twowholecakes.com/) &raquo; Airship
 
 ## GSRM
-* [A Genderqueer Menace](http://gqmenace.wordpress.com/)
-* [inchoaterica](http://inchoaterica.wordpress.com/)
-* [Shadow's Crescent](http://shadowscrescent.wordpress.com/)
-* [Sincerely, Natalie Reed](http://freethoughtblogs.com/nataliereed)
-* [A Heinous Butch](http://heinousbutch.wordpress.com/)
-* [Not Your Mom's Trans 101](http://tranarchism.com/2010/11/26/not-your-moms-trans-101/)
+* [A Genderqueer Menace](http://gqmenace.wordpress.com/) &raquo; terra-and-luna
+* [inchoaterica](http://inchoaterica.wordpress.com/) &raquo; terra-and-luna
+* [Shadow's Crescent](http://shadowscrescent.wordpress.com/) &raquo; terra-and-luna
+* [Sincerely, Natalie Reed](http://freethoughtblogs.com/nataliereed) &raquo; terra-and-luna
+* [A Heinous Butch](http://heinousbutch.wordpress.com/) &raquo; terra-and-luna
+* [Not Your Mom's Trans 101](http://tranarchism.com/2010/11/26/not-your-moms-trans-101/) &raquo; terra-and-luna
+* [TransActivisty](http://www.transactivisty.com/) &raquo; XWNH
+* [Bi Radical](https://radicalbi.wordpress.com/) &raquo; nuit
 
 ## Media Representation
-* [Escher Girls](http://eschergirls.tumblr.com/)
+* [Escher Girls](http://eschergirls.tumblr.com/) &raquo; terra-and-luna
 
 ## Philosophy
 * [Stanford Encyclopedia of Philosophy: Topics in Feminism](http://plato.stanford.edu/entries/feminism-topics/) &raquo; Erika Mustermann
 
 ## Religion
-* [Slacktivist](http://www.patheos.com/blogs/slacktivist/)
-* [I am not Haraam](http://iamnotharaam.tumblr.com/)
+* [Slacktivist](http://www.patheos.com/blogs/slacktivist/) &raquo; terra-and-luna
+* [I am not Haraam](http://iamnotharaam.tumblr.com/) &raquo; terra-and-luna
 
 ***
 
