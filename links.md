@@ -12,7 +12,7 @@ title: Links
 
 
 ## Disabilities
-* [FWD\/Forward: FWD \(feminists with disabilities\)](http://disabledfeminists.com/) &raquo; XWNH
+* [FWD/Forward: FWD \(feminists with disabilities\)](http://disabledfeminists.com/) &raquo; XWNH
 
 ## Fat Acceptance 
 * [Dances With Fat Blog](https://danceswithfat.wordpress.com/blog/) &raquo; Airship
@@ -37,7 +37,7 @@ title: Links
 * [Escher Girls](http://eschergirls.tumblr.com/) &raquo; terra-and-luna
 
 ## News
-* [Queer Zine Archive Project](http://freenode-feminists.github.com/links/) &raquo; Erika Mustermann
+* [The Guardian | Feminism | World News](http://www.guardian.co.uk/world/feminism) &raquo; Erika Mustermann
 
 ## Organisations
 * [Irish Feminist Network](http://www.irishfeministnetwork.org/) &raquo; automation
