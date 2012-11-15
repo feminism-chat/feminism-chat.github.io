@@ -12,6 +12,7 @@ title: Links
 
 
 ## Disabilities
+* [FWD\/Forward: FWD \(feminists with disabilities\)](http://disabledfeminists.com/) &raquo; XWNH
 
 ## Fat Acceptance 
 * [Dances With Fat Blog](https://danceswithfat.wordpress.com/blog/) &raquo; Airship
@@ -30,11 +31,17 @@ title: Links
 * [TransActivisty](http://www.transactivisty.com/) &raquo; XWNH
 * [Bi Radical](https://radicalbi.wordpress.com/) &raquo; nuit
 
+## Meida
+
 ## Media Representation
 * [Escher Girls](http://eschergirls.tumblr.com/) &raquo; terra-and-luna
 
+## News
+* [Queer Zine Archive Project](http://freenode-feminists.github.com/links/) &raquo; Erika Mustermann
+
 ## Organisations
 * [Irish Feminist Network](http://www.irishfeministnetwork.org/) &raquo; automation
+* [Anarchafeminist Hackerhive](https://www.noisebridge.net/wiki/Anarchafeminist_Hackerhive) &raquo; yardena
 
 ## Philosophy
 * [Stanford Encyclopedia of Philosophy: Topics in Feminism](http://plato.stanford.edu/entries/feminism-topics/) &raquo; Erika Mustermann
@@ -46,6 +53,14 @@ title: Links
 * [I am not Haraam](http://iamnotharaam.tumblr.com/) &raquo; terra-and-luna
 * [Jewish Women's Archive](http://jwa.org/blog) &raquo; yardena
 * [Loolwa Khazzoom's Blog](http://loolwa.com/blog/) &raquo; yardena
+
+## Tech
+* [Geek Feminism Blog](http://geekfeminism.org/) &raquo; Erika Mustermann
+* [Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki) &raquo; Erika Mustermann
+
+## Zines
+* [The Feminist eZine](http://www.feministezine.com/feminist/) &raquo; nuit
+* [Queer Zine Archive Project](http://freenode-feminists.github.com/links/) &raquo; Erika Mustermann
 
 ***
 
