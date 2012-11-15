@@ -38,7 +38,7 @@ Use Freenode's web client by clicking [here](http://webchat.freenode.net/?channe
 ***
 
 # Moderators
- [@Airship](https://github.com/airship) | [@Erika-Mustermann](https://github.com/erika-mustermann) | [@Jetbeard](https://github.com/jetbeard) | [@nyux](https://shadowscrescent.wordpress.com) (terra-and-luna) | [@yardenac](https://github.com/yardenac)
+ [@Airship](https://github.com/airship) | [@Erika-Mustermann](https://github.com/erika-mustermann) | [@Jetbeard](https://github.com/jetbeard) | [@nyux (terra-and-luna)](https://shadowscrescent.wordpress.com) | [@yardenac](https://github.com/yardenac)
  
  Feel free to contact any of the moderators on IRC, if you have any issues or questions.
 
