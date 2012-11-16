@@ -3,13 +3,21 @@ layout: default
 content_type: md
 title: Links
 ---
-<!-- please sort catergories in alphabetical order -->
+
+<!-- 
+    Please sort catergories in alphabetical order.
+    For Non-English links, add a bold paranthesis containing the language after the link. If anyone has a better system, please propose it in op chat.
+-->
+
 # Links
 ## Anarchism
 * [Socialism, Anarchism And Feminism](http://theanarchistlibrary.org/library/carol-ehrlich-socialism-anarchism-and-feminism)
 * [The Precarious Union of Anarchism and Feminism: A Response to 'Re-defining Radical Feminism'](http://theanarchistlibrary.org/library/red-sonja-nefac-boston-the-precarious-union-of-anarchism-and-feminism-a-response-to-re-defining)
 * [Anarchism and American Traditions](http://tmh.floonet.net/articles/vdc.html)
+* [Rosa Antifa Wien](https://www.raw.at/) **(Deutsch)**
 
+## Comics
+* [Trouble X](http://troublex.blogsport.de/) **(Deutsch)**
 
 ## Disability
 * [FWD/Forward: FWD \(feminists with disabilities\)](http://disabledfeminists.com/)
@@ -35,6 +43,12 @@ title: Links
 * [Bi Radical](https://radicalbi.wordpress.com/) 
 * [The Intersex Roadshow](http://intersexroadshow.blogspot.com/)
 * [Infoladen](http://as-laden.info/) **(Deutsch & English)**
+
+## Immigration
+
+## Just Feminism
+* [Gender Blog](http://genderblog.de/) **(Deutsch)**
+* [Mädchenblog](http://maedchenblog.blogsport.de/) **(Deutsch)**
 
 ## Lookism
 * [Projekt L](http://www.lookism.info/) **(Deutsch & English)**
@@ -67,7 +81,6 @@ title: Links
 
 ## Sex
 * [The Pervocracy](http://pervocracy.blogspot.com/)
-
 
 ## Religion
 * [Slacktivist](http://www.patheos.com/blogs/slacktivist/) 
