@@ -3,7 +3,7 @@ layout: default
 content_type: md
 title: Links
 ---
-
+<!-- please sort catergories in alphabetical order -->
 # Links
 ## Anarchism
 * [Socialism, Anarchism And Feminism](http://theanarchistlibrary.org/library/carol-ehrlich-socialism-anarchism-and-feminism)
@@ -11,9 +11,10 @@ title: Links
 * [Anarchism and American Traditions](http://tmh.floonet.net/articles/vdc.html)
 
 
-## Disabilities
+## Disability
 * [FWD/Forward: FWD \(feminists with disabilities\)](http://disabledfeminists.com/)
 * [Wheelchair Dancer](http://cripwheels.blogspot.com/)
+* [Crazy Like Us?](https://feministmentalhealthuk.wordpress.com/)
 
 ## Fat Acceptance 
 * [Dances With Fat Blog](https://danceswithfat.wordpress.com/blog/)
@@ -33,17 +34,10 @@ title: Links
 * [TransActivisty](http://www.transactivisty.com/) 
 * [Bi Radical](https://radicalbi.wordpress.com/) 
 * [The Intersex Roadshow](http://intersexroadshow.blogspot.com/)
+* [Infoladen](http://as-laden.info/) **(Deutsch & English)**
 
-## Race
-* [US History, Minus the White Guys](http://ushistoryminuswhiteguys.tumblr.com/)
-* [This Is White Privilege](http://thisiswhiteprivilege.tumblr.com/) 
-* [Racialicious](http://www.racialicious.com/)
-* [The Crunk Feminst Collective](http://crunkfeministcollective.wordpress.com/)
-* [The Black Kids Table](http://www.theblackkidstable.com/)
-* [The Angry Black Woman](http://theangryblackwoman.com/)
-
-## Sex
-* [The Pervocracy](http://pervocracy.blogspot.com/)
+## Lookism
+* [Projekt L](http://www.lookism.info/) **(Deutsch & English)**
 
 ## Media
 
@@ -63,6 +57,18 @@ title: Links
 
 ## Politics
 
+## Race
+* [US History, Minus the White Guys](http://ushistoryminuswhiteguys.tumblr.com/)
+* [This Is White Privilege](http://thisiswhiteprivilege.tumblr.com/) 
+* [Racialicious](http://www.racialicious.com/)
+* [The Crunk Feminst Collective](http://crunkfeministcollective.wordpress.com/)
+* [The Black Kids Table](http://www.theblackkidstable.com/)
+* [The Angry Black Woman](http://theangryblackwoman.com/)
+
+## Sex
+* [The Pervocracy](http://pervocracy.blogspot.com/)
+
+
 ## Religion
 * [Slacktivist](http://www.patheos.com/blogs/slacktivist/) 
 * [I am not Haraam](http://iamnotharaam.tumblr.com/)
@@ -72,6 +78,7 @@ title: Links
 ## Tech
 * [Geek Feminism Blog](http://geekfeminism.org/)
 * [Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki) 
+* [A Megahbite of Feminism](http://megan.geek.nz/) 
 
 ## Zines
 * [The Feminist eZine](http://www.feministezine.com/feminist/) 
@@ -80,4 +87,4 @@ title: Links
 
 ***
 
-Have an awesome link you want added here? Give us a shout in the channel!
+Have an awesome link you want added here? Give us a shout in the channel, [##feminist](ircs://chat.freenode.net:6697/%23%23feminist)!
