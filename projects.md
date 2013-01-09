@@ -6,7 +6,7 @@ title: Projects
 
 # Projects
 ## CommentBlock
-[CommentBlock](https://github.com/freenode-feminists/CommentBlock/issues) is an AdBlock filter subscription that hides the user comment section on various popular websites.
+[CommentBlock](https://github.com/freenode-feminists/CommentBlock/) is an AdBlock Plus filter subscription that hides the user comment section on various popular websites.
 Most websites lack decent or any moderation of their commenting section, allowing an enviroment full of 
 trolls, ignorance, and bigotry to become an unsettling echo chamber.
 
