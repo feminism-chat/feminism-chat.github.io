@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 content_type: md
 title: Home
@@ -38,13 +38,13 @@ Use Freenode's web client by clicking [here](http://webchat.freenode.net/?channe
 ***
 
 # Moderators
- [@Airship](https://github.com/airship) | [@Erika-Mustermann](https://github.com/erika-mustermann) | [@Jetbeard](https://github.com/jetbeard) | [@nyux (terra-and-luna)](https://shadowscrescent.wordpress.com) | [@yardenac](https://github.com/yardenac)
+ [@Airship](https://github.com/airship) | [@Erika-Mustermann](https://github.com/erika-mustermann) | [@Jetbeard](https://github.com/jetbeard) | [@nyux (terra-and-luna)](https://shadowscrescent.wordpress.com) | [@Starlurk](https://github.com/Starlurk) | [@yardenac](https://github.com/yardenac)
  
  Feel free to contact any of the moderators on IRC, if you have any issues or questions.
 
  ***
 
 # Using the Bot
-No one knows how to do this, really--not even us!
+No one knows how to do this, really—not even us!
 
 ***
