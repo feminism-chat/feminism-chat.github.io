@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 content_type: md
 title: Home
@@ -45,6 +45,6 @@ Use Freenode's web client by clicking [here](http://webchat.freenode.net/?channe
  ***
 
 # Using the Bot
-No one knows how to do this, really—not even us!
+No one knows how to do this, really--not even us!
 
 ***
