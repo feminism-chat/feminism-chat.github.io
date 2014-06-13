@@ -18,7 +18,8 @@ or [chat.freenode.net:6667](irc://chat.freenode.net:6667/%23%23feminist) and joi
 For those with security concerns, here's a [guide](/cloak/) on concealing your IP.
 
 ## Via Webchat
-Use Freenode's web client by clicking [here](http://webchat.freenode.net/?channels=%23%23feminist&uio=Mj10cnVlJjQ9dHJ1ZSY5PXRydWUmMTE9MjQ2JjEyPXRydWUb2).
+
+Click this button: [![Visit our IRC channel](https://kiwiirc.com/buttons/chat.freenode.net/%23feminist.png)](https://kiwiirc.com/client/chat.freenode.net:+6697/##feminist)
 
 ***
 
