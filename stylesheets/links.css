@@ -1,0 +1,16 @@
+ul,ol,li,dl,dt,dd,a{border:0;outline:none;margin:0;padding:0;}
+ul, ol{list-style:none;}
+a {text-decoration: none;}
+.wrap {margin: 0 auto;}
+
+#links-list {margin-bottom: 50px; line-height: 1.5em;}
+#links-list a {
+    background: transparent url(../images/bullet.png) center left no-repeat;
+    padding-left: 14px;
+}
+
+#tag-list {margin-bottom: 20px; width: 100%; overflow: hidden; padding: 0px 0 0;}
+#tag-list li {display: inline;}
+#tag-list li a {text-transform: capitalize; display: block; float: left; padding: 0px 2px; margin-right: 8px; font-family: Arial; font-weight: bold; border-bottom: 2px solid #fff;}
+#tag-list li a.active {border-bottom: 2px solid #000;}
+
