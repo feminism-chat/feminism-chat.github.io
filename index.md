@@ -98,11 +98,12 @@ Sexists, transphobes, fascists, consistent apologists for imperialism, racists, 
 ***
 
 # Moderators
- @Airship | @syzygy | [@nyux (terra-and-luna)](https://shadowscrescent.wordpress.com) | [@yardenac](https://github.com/yardenac) | @epi | [@alyx](http://alyx.io) | @meltheadorable
- 
- Feel free to contact any of the moderators on IRC, if you have any issues or questions.
 
- ***
+@Airship | @syzygy | [@nyux (terra-and-luna)](https://shadowscrescent.wordpress.com) | [@yardenac](https://github.com/yardenac) | @epi | [@alyx](http://alyx.io) | @meltheadorable | @GorillaWarfare
+ 
+Feel free to contact any of the moderators on IRC, if you have any issues or questions.
+
+***
 
 # Using the Bot
 No one knows how to do this, really--not even us!
