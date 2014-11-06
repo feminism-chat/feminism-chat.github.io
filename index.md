@@ -69,6 +69,11 @@ We ask that sectarianism be kept to a minimum. While criticism is allowed, we do
 
 \##feminist is by and for feminists. Non-feminists are strongly encourage to not participate here. If you feel the need to ignore this warning, do not advertise your ideology; you will be banned. This rule also applies to police and military members of the armed forces of capitalist nations.
 
+
+### Unwelcome Comments on Users' Personal Choices Will Not Be Allowed.
+This is not a place to express uninvited opinions on another user's actions or choices, such as about food and diet, relationships, or employment.
+
+
 ### Notes
 
 #### *On free speech:
