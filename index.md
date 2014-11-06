@@ -71,7 +71,7 @@ We ask that sectarianism be kept to a minimum. While criticism is allowed, we do
 
 
 ### Unwelcome Comments on Users' Personal Choices Will Not Be Allowed.
-This is not a place to express uninvited opinions on another user's actions or choices, such as about food and diet, relationships, or employment.
+Although we recognize the personal is political, this is not a space to express uninvited opinions or criticize other people's personal lifestyle choices, especially as it concerns health, diet, employment, and personal relationships.
 
 
 ### Notes
