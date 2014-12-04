@@ -99,7 +99,7 @@ Sexists, transphobes, fascists, consistent apologists for imperialism, racists, 
 
 # Moderators
 
-@Airship \| @syzygy \| [@nyux (terra-and-luna)](https://shadowscrescent.wordpress.com) \| [@yardenac](https://github.com/yardenac) \| @epi \| [@alyx](http://alyx.io) \| @meltheadorable \| @GorillaWarfare \| @locas
+@Airship \| [@nyux (staria)](https://shadowscrescent.wordpress.com) \| [@yar](https://github.com/yardenac) \| [@alyx](http://alyx.io) \| @GorillaWarfare \| @locas
  
 Feel free to contact any of the moderators on IRC, if you have any issues or questions.
 
