@@ -107,7 +107,7 @@ Sexists, transphobes, fascists, consistent apologists for imperialism, racists, 
 ***
 
 # <a name="mm"></a>Channel Modes and Misandry Monday
-Every Monday (actually 10:00AM UTC Sunday to 11:59AM UTC Tuesday, to accomodate for everyone's Monday), we put the channel into moderated mode (+m) so that only voiced users (+v) can speak. Voiced users are trusted channel regulars who are women, non-binary, or otherwise Not a Man™. We don't voice new users during Misandry Monday, so please wait until another day to join in the discussion. The intent of Misandry Monday is to encourage women and others who may, in other spheres, feel discouraged from speaking, and to discourage men from dominating conversation in the channel. Those critical of this event should see rule 6 above.
+Every Monday (actually 10:00AM UTC Sunday to 11:59AM UTC Tuesday, to accomodate for everyone's Monday), we put the channel into moderated mode (+m) so that only voiced users (+v) can speak. Voiced users are trusted channel regulars who are women, non-binary, or otherwise Not a Man™. We don't voice new users during Misandry Monday, so please wait until another day to join in the discussion. The intent of Misandry Monday is to encourage women and others who may, in other spheres, feel discouraged from speaking, and to discourage men from dominating conversation in the channel. Those critical of this event should see note vi above.
 
 ***
 
