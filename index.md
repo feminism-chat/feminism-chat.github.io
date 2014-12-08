@@ -97,6 +97,11 @@ Sexists, transphobes, fascists, consistent apologists for imperialism, racists, 
 
 ***
 
+# Channel Modes and Misandry Monday
+Every Monday (actually 13:00 UTC Sunday to 14:00 UTC Tuesday, to accomodate for everyone's Monday), we put the channel into moderated mode (+m) so that only voiced users (+v) can speak. Voiced users are trusted channel regulars who are women, non-binary, or otherwise Not a Man™. The intent of Misandry Monday is to encourage women and others who may, in other spheres, feel discouraged from speaking, and to discourage men from dominating conversation in the channel. Those critical of this event should see rule 6 above.
+
+***
+
 # Moderators
 
 @Airship \| [@nyux (staria)](https://shadowscrescent.wordpress.com) \| [@yar](https://github.com/yardenac) \| [@alyx](http://alyx.io) \| @GorillaWarfare \| @locas
