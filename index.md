@@ -73,6 +73,8 @@ We ask that sectarianism be kept to a minimum. While criticism is allowed, we do
 ### 8. Unwelcome Comments on Users' Personal Choices Will Not Be Allowed.
 Although we recognize the personal is political, this is not a space to express uninvited opinions or criticize other people's personal lifestyle choices, especially as it concerns health, diet, employment, and personal relationships.
 
+###### Read the rules and wanna let us know? Tell us your favorite balloon animal!
+
 
 ### Notes
 
