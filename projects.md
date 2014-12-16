@@ -22,6 +22,6 @@ This project is in its infancy so ther are going to be plenty of sites that have
 errors. Please, feel free to point out bugs or make requests for new sites to be added via the 
 [issue tracker](https://github.com/freenode-feminists/CommentBlock/issues), or submit a pull request.
 
-You're also able to contact us directly through our IRC channel, [##feminism](ircs://chat.freenode.net:6697/%23%23feminist).
+You're also able to contact us directly through our IRC channel, [##feminism](ircs://chat.freenode.net:6697/%23%23feminism).
  
 ***
