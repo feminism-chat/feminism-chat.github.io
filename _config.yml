@@ -2,6 +2,6 @@ server: true
 page_title: "##feminism"
 title: "##feminism"
 tagline: Freenode Feminists
-repository_url: https://github.com/freenode-feminists/freenode-feminists.github.com/
+repository_url: https://github.com/freenode-feminists/freenode-feminism.github.com/
 permalink: pretty
 markdown: kramdown
