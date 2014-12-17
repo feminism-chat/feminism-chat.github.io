@@ -1,4 +1,4 @@
-freenode-feminists.github.com
+freenode-feminism.github.io
 =============================
 
 # Lorem ipsum
