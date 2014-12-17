@@ -118,7 +118,7 @@ Every Monday (actually 10:00AM UTC Sunday to 11:59AM UTC Tuesday, to accomodate 
 
 # Moderators
 
-@Airship \| [@nyux (staria)](https://shadowscrescent.wordpress.com) \| [@yar](https://github.com/yardenac) \| [@alyx](http://alyx.io) \| @GorillaWarfare \| @locas
+@Airship \| [@yar](https://github.com/yardenac) \| [@alyx](http://alyx.io) \| @GorillaWarfare \| @locas
  
 Feel free to contact any of the moderators on IRC, if you have any issues or questions.
 

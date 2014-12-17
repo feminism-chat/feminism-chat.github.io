@@ -40,7 +40,6 @@ title: Links
 * [Queer Zine Archive Project](http://freenode-feminists.github.com/links/){: .Zines} 
 * [Racialicious](http://www.racialicious.com/){: .Race}
 * [Rosa Antifa Wien **(Deutsch)**](https://www.raw.at/){: .anarchism deutsch}
-* [Shadow's Crescent](http://shadowscrescent.wordpress.com/){: .GSRM} 
 * [Shapely Prose Archives](http://kateharding.net/){: .Fat-Acceptance} 
 * [Sincerely, Natalie Reed](http://freethoughtblogs.com/nataliereed){: .GSRM}
 * [Slacktivist](http://www.patheos.com/blogs/slacktivist/){: .Religion}
