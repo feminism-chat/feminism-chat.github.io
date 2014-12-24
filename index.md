@@ -71,7 +71,7 @@ We ask that sectarianism be kept to a minimum. While criticism is allowed, we do
 
 
 ### 8. Unwelcome Comments on Users' Personal Choices Will Not Be Allowed.
-Although we recognize the personal is political, this is not a space to express uninvited opinions or criticize other people's personal lifestyle choices, especially as it concerns health, diet, employment, and personal relationships.
+Although we recognize the personal is political, this is not a space to express uninvited opinions or criticize other people's personal lifestyle choices, especially as it concerns health, diet, employment, body modification, and personal relationships.
 
 ###### Read the rules and wanna let us know? Tell us your favorite balloon animal!
 
@@ -92,7 +92,7 @@ v. \##feminism is not a liberal chat room.  Liberals might come in the defence o
 
 vi. Oppressive speech supports authority where it is undue (for example: the authority of white people over black people, of men over women). Thus, this space rejects the liberal accusations of authoritarianism based on its stance against free speech.
 
-* Men, White people, heterosexuals, and cis people set the oppressive normative standards of our society. Attacking such groups does not qualify as oppressive speech and is not equivalent to attacking oppressed groups; reverse racism and misandry do not exist. MRAs will be instantly banned.
+* Men, White people, heterosexuals, cis people, and abled people set the oppressive normative standards of our society. Attacking such groups does not qualify as oppressive speech and is not equivalent to attacking oppressed groups; reverse racism and misandry do not exist. MRAs will be instantly banned.
 
 vii. Patriarchal, white supremacist, cissexist, homophobic, or otherwise oppressive speech is not tolerated here.
 
