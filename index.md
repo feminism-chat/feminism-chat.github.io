@@ -18,8 +18,8 @@ Trans woman exclusionary radical feminists are not welcome.
 
 ## Via IRC Client
 
-Simply connect to [chat.freenode.net:6697](ircs://chat.freenode.net:6697/%23%23feminism) (SSL) 
-or [chat.freenode.net:6667](irc://chat.freenode.net:6667/%23%23feminism) and join 
+Simply connect to [chat.freenode.net:6697](ircs://chat.freenode.net:6697/%23%23feminism) (SSL)
+or [chat.freenode.net:6667](irc://chat.freenode.net:6667/%23%23feminism) and join
 [##feminism](ircs://chat.freenode.net:6697/%23%23feminism)
 
 For those with security concerns, here's a [guide](/cloak/) on concealing your IP.
@@ -73,6 +73,9 @@ We ask that sectarianism be kept to a minimum. While criticism is allowed, we do
 ### 8. Unwelcome Comments on Users' Personal Choices Will Not Be Allowed.
 Although we recognize the personal is political, this is not a space to express uninvited opinions or criticize other people's personal lifestyle choices, especially as it concerns health, diet, employment, body modification, and personal relationships.
 
+### 9. No Public Logging.
+Public logs can have a chilling effect on discussion, so users are not allowed to publish logs from this channel. If you wish to publish a snippet of a log, you must get explicit consent from every user quoted in the log. Please note that there unfortunately *is* the possibility that people may be logging publicly without our knowledge, so do keep this in mind when using this channel.
+
 ###### Read the rules and wanna let us know? Tell us your favorite balloon animal!
 
 
@@ -119,7 +122,7 @@ Every Monday (actually 10:00AM UTC Sunday to 11:59AM UTC Tuesday, to accomodate 
 # Moderators
 
 @Airship \| [@yar](https://github.com/yardenac) \| [@alyx](http://alyx.io) \| @GorillaWarfare \| @locas \| @Euryale
- 
+
 Feel free to contact any of the moderators on IRC, if you have any issues or questions.
 
 ***
