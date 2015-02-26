@@ -52,7 +52,7 @@ This includes discussions about recreational drug use (including alcohol), publi
 
 ### 4. Comments Asking Entry-Level Questions Will Not Be Allowed.
 
-Questions like “What is feminism?” or “Aren't women already equal to men?” will not be tolerated as they are not the focus on this space. We ask that users educate themselves on these matters via our Educational Resources.
+Questions like “What is feminism?” or “Aren't women already equal to men?” will not be tolerated as they are not the focus in this space. We ask that users educate themselves on these matters via our Educational Resources.
 
 
 ### 5. Users Complaining About “Authoritarian” Moderation Methods Will Be Banned.
