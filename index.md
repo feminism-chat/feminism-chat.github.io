@@ -22,8 +22,6 @@ Simply connect to [chat.freenode.net:6697](ircs://chat.freenode.net:6697/%23%23f
 or [chat.freenode.net:6667](irc://chat.freenode.net:6667/%23%23feminism) and join
 [##feminism](ircs://chat.freenode.net:6697/%23%23feminism)
 
-For those with security concerns, here's a [guide](/cloak/) on concealing your IP from other users in the channel.
-
 ## Via Webchat
 
 [![Visit our IRC channel](https://kiwiirc.com/buttons/chat.freenode.net/%23feminism.png)](https://kiwiirc.com/client/chat.freenode.net:+6697/##feminism)
