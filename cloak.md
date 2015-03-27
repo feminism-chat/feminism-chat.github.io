@@ -5,7 +5,7 @@ title: Concealing Your IP on Freenode
 ---
 
 # Concealing Your IP on Freenode
-The only reliable way to hide your IP address on Freenode is to [access the network via Tor](http://freenode.net/irc_servers.shtml#tor) or a VPN, or to use a VPS with an IP address you don't mind exposing. 
+The only reliable way to hide your IP address on Freenode is to [access the network via Tor](http://freenode.net/irc_servers.shtml#tor) (although this is [currently disabled](https://twitter.com/freenodestaff/status/564848187710906368)) or a VPN, or to use a VPS with an IP address you don't mind exposing. 
 
 Freenode offers users the ability to conceal their IP with a cloak (vhost) on IRC, although this is not always reliable (see this explanation of [the security of cloaks](https://gist.github.com/maxteufel/1e2cf7ada079c271bd3c)). With one, instead of seeing "AngryFeminist!~ROAR@ip-address.city.state.isp.net", people will see you as "AngryFeminist!~ROAR@unaffiliated/AngryFeminist".  We highly advise everyone to at the very least obtain a cloak, especially those who are using their campus or work internet. Below are the steps for obtaining and using your cloak.
 
