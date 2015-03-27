@@ -22,6 +22,8 @@ Simply connect to [chat.freenode.net:6697](ircs://chat.freenode.net:6697/%23%23f
 or [chat.freenode.net:6667](irc://chat.freenode.net:6667/%23%23feminism) and join
 [##feminism](ircs://chat.freenode.net:6697/%23%23feminism)
 
+A guide on obtaining a cloak can be found [here](/cloak/).
+
 ## Via Webchat
 
 [![Visit our IRC channel](https://kiwiirc.com/buttons/chat.freenode.net/%23feminism.png)](https://kiwiirc.com/client/chat.freenode.net:+6697/##feminism)
