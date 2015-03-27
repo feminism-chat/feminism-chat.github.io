@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: default
 content_type: md
 title: News
 ---
