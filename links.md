@@ -1,5 +1,5 @@
 ---
-layout: links
+layout: default
 content_type: md
 title: Links
 ---
