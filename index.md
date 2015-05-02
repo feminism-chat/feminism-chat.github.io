@@ -121,7 +121,7 @@ We periodically put the channel into moderated mode (+m) so that only voiced use
 
 # Moderators
 
-@Airship \| [@yar](https://github.com/yardenac) \| [@alyx_](http://alyx.io) \| @GorillaWarfare \| @locas \| @Euryale \| @Kaiserina
+@Airship \| [@yar](https://github.com/yardenac) \| [@alyx_](http://alyx.io) \| @GorillaWarfare \| @locas \| @Euryale \| @Kaiserina \| @Keilana
 
 Feel free to contact any of the moderators on IRC, if you have any issues or questions.
 
