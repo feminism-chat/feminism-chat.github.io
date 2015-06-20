@@ -67,7 +67,7 @@ We ask that sectarianism be kept to a minimum. While criticism is allowed, we do
 
 ### 7. Non-Feminist Posters Are Not Welcome Here.
 
-\##feminism is by and for feminists. Non-feminists are strongly encourage to not participate here. If you feel the need to ignore this warning, do not advertise your ideology; you will be banned. This rule also applies to police and military members of the armed forces of capitalist nations.
+\##feminism is by and for feminists. Non-feminists are strongly encouraged to not participate here. If you feel the need to ignore this warning, do not advertise your ideology; you will be banned. This rule also applies to police and military members of the armed forces of capitalist nations.
 
 
 ### 8. Unwelcome Comments on Users' Personal Choices Will Not Be Allowed.
