@@ -50,7 +50,7 @@ title: Links
 * [The Crunk Feminst Collective](http://crunkfeministcollective.wordpress.com/){: .Race}
 * [The Fat Nutritionist](http://www.fatnutritionist.com/){: .Fat-Acceptance} 
 * [The Feminist eZine](http://www.feministezine.com/feminist/){: .Zines} 
-* [The Guardian | Feminism | World News](http://www.guardian.co.uk/world/feminism){: .News}
+* [The Guardian / Feminism / World News](http://www.guardian.co.uk/world/feminism){: .News}
 * [The Intersex Roadshow](http://intersexroadshow.blogspot.com/){: .GSRM}
 * [The Pervocracy](http://pervocracy.blogspot.com/){: .Sex}
 * [The Precarious Union of Anarchism and Feminism: A Response to 'Re-defining Radical Feminism'](http://theanarchistlibrary.org/library/red-sonja-nefac-boston-the-precarious-union-of-anarchism-and-feminism-a-response-to-re-defining){: .anarchism}
