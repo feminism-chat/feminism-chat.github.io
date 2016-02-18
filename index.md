@@ -121,7 +121,7 @@ We periodically put the channel into moderated mode (+m) so that only voiced use
 
 # Moderators
 
-[@yar](https://github.com/yardenac) \| [@GorillaWarfare](https://github.com/molly) \| @locas \| @Euryale \| @Keilana
+@Euryale \| [@GorillaWarfare](https://github.com/molly) \| @Keilana \| @locas \| [@yar](https://github.com/yardenac)
 
 Feel free to contact any of the moderators on IRC, if you have any issues or questions.
 
