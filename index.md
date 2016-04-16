@@ -74,7 +74,7 @@ We ask that sectarianism be kept to a minimum. While criticism is allowed, we do
 Although we recognize the personal is political, this is not a space to express uninvited opinions or criticize other people's personal lifestyle choices, especially as it concerns health, diet, employment, body modification, and personal relationships.
 
 ### 9. No Public Logging.
-Public logs can have a chilling effect on discussion, so users are not allowed to publish logs from this channel. If you wish to publish a snippet of a log, you must get explicit consent from every user quoted in the log. Please note that there unfortunately *is* the possibility that people may be logging publicly without our knowledge, so do keep this in mind when using this channel.
+Public logs can have a chilling effect on discussion, so users are not allowed to publish logs from this channel. If you wish to publish a snippet of a log, you must get explicit consent from every user appearing in the log. Please note that there unfortunately *is* the possibility that people may be logging publicly without our knowledge, so do keep this in mind when using this channel. Even if you write nothing, note that logs may include your metadata: join & part information, nicks, local username and ip address or hostmask.
 
 ###### Read the rules and wanna let us know? Tell us your favorite balloon animal!
 
