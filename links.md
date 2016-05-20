@@ -37,7 +37,7 @@ title: Links
 * [Not Your Mom's Trans 101](http://tranarchism.com/2010/11/26/not-your-moms-trans-101/){: .GSRM} 
 * [Projekt L **(Deutsch & English)**](http://www.lookism.info/){: .lookism}
 * [Queer Under All Conditions](http://queerunderallconditions.tumblr.com/){: .Zines} 
-* [Queer Zine Archive Project](http://freenode-feminism.github.io/links/){: .Zines} 
+* [Queer Zine Archive Project](http://www.qzap.org/){: .Zines} 
 * [Racialicious](http://www.racialicious.com/){: .Race}
 * [Rosa Antifa Wien **(Deutsch)**](https://www.raw.at/){: .anarchism deutsch}
 * [Shapely Prose Archives](http://kateharding.net/){: .Fat-Acceptance} 
