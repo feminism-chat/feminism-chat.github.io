@@ -47,7 +47,7 @@ Doing this will almost assuredly result in a ban. Accept the criticism in a prin
 
 ### 3. Discussions That Are Off-Topic or Otherwise Irrelevant to ##feminism Will be Redirected.
 
-This includes discussions about recreational drug use (including alcohol), public displays of affection and flirting, and sexual exploits. We also ask that users remain cognizant of the fact their our chat room is international in its make-up and take effort to discuss topics outside the USA.
+This includes discussions about recreational drug use (including alcohol), public displays of affection and flirting, and sexual exploits. We also ask that users remain cognizant of the fact that our chat room is international in its make-up and take effort to discuss topics outside the USA.
 
 
 ### 4. Comments Asking Entry-Level Questions Will Not Be Allowed.
