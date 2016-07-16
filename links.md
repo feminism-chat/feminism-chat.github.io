@@ -12,12 +12,9 @@ title: Links
 # Links
 
 {: id=links-list }
-* [A Genderqueer Menace](http://gqmenace.wordpress.com/){: .GSRM} 
-* [A Heinous Butch](http://heinousbutch.wordpress.com/){: .GSRM} 
 * [A Megahbite of Feminism](http://megan.geek.nz/){: .Tech}
 * [Amy Dentata](http://amydentata.com/){: .GSRM}
 * [Anarchafeminist Hackerhive](https://www.noisebridge.net/wiki/Anarchafeminist_Hackerhive){: .Organisations}
-* [Anarchism and American Traditions](http://tmh.floonet.net/articles/vdc.html){: .anarchism}
 * [Bi Radical](https://radicalbi.wordpress.com/){: .GSRM} 
 * [BITCH Magazine](http://bitchmagazine.org/){: .Media-Representation}
 * [Crazy Like Us?](https://feministmentalhealthuk.wordpress.com/){: .disability}
@@ -46,7 +43,6 @@ title: Links
 * [Socialism, Anarchism And Feminism](http://theanarchistlibrary.org/library/carol-ehrlich-socialism-anarchism-and-feminism){: .anarchism}
 * [Stanford Encyclopedia of Philosophy: Topics in Feminism](http://plato.stanford.edu/entries/feminism-topics/){: .Philosophy .Theory}
 * [The Angry Black Woman](http://theangryblackwoman.com/){: .Race}
-* [The Black Kids Table](http://www.theblackkidstable.com/){: .Race}
 * [The Crunk Feminst Collective](http://crunkfeministcollective.wordpress.com/){: .Race}
 * [The Fat Nutritionist](http://www.fatnutritionist.com/){: .Fat-Acceptance} 
 * [The Feminist eZine](http://www.feministezine.com/feminist/){: .Zines} 
@@ -56,7 +52,6 @@ title: Links
 * [The Precarious Union of Anarchism and Feminism: A Response to 'Re-defining Radical Feminism'](http://theanarchistlibrary.org/library/red-sonja-nefac-boston-the-precarious-union-of-anarchism-and-feminism-a-response-to-re-defining){: .anarchism}
 * [This Is Thin Privilege](http://thisisthinprivilege.tumblr.com/){: .Fat-Acceptance}
 * [This Is White Privilege](http://thisiswhiteprivilege.tumblr.com/){: .Race} 
-* [TransActivisty](http://www.transactivisty.com/){: .GSRM} 
 * [Trouble X **(Deutsch)**](http://troublex.blogsport.de/){: .comics}
 * [Two Whole Cakes](http://blog.twowholecakes.com/){: .Fat-Acceptance}
 * [US History, Minus the White Guys](http://ushistoryminuswhiteguys.tumblr.com/){: .Race}
