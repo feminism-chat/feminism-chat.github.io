@@ -12,4 +12,4 @@ Our channel is regularly targeted by abusive and persistent trolls. Freenode onl
 
 [Google it:](https://encrypted.google.com/search?hl=en&q=pinkwashing)
 
-* Pinkwashing is a portmanteau compound word of the words pink and whitewashing. In the context of LGBT and intersex rights, it is used to describe a variety of marketing and political strategies aimed at promoting a product or an entity through an appeal to queer-friendliness, primarily by political or social activists. [--Wikipedia])https://en.wikipedia.org/wiki/Pinkwashing_(LGBT))
+* Pinkwashing is a portmanteau compound word of the words pink and whitewashing. In the context of LGBT and intersex rights, it is used to describe a variety of marketing and political strategies aimed at promoting a product or an entity through an appeal to queer-friendliness, primarily by political or social activists. [--Wikipedia](https://en.wikipedia.org/wiki/Pinkwashing_(LGBT))
