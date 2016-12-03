@@ -66,6 +66,8 @@
 * politizane: [Wealth Inequality in America](https://www.youtube.com/watch?v=QPKKQnijnsM) <small>(video)</small>
 * Mark Karlin: [Richest 300 Persons on Earth Have More Money Than Poorest 3 Billion](http://www.sanders.senate.gov/newsroom/news/?id=a10e50a7-5b9d-4933-9bb8-decd3ce624dd)
 * alyx.io: [Solving World Hunger in 6.9 Days – The 256 Most Profitable Corporations](http://alyx.io/capitalism/2014/01/21/corporate-profit-world-hunger/)
+* New Scientist: [Revealed – the capitalist network that runs the world](https://www.newscientist.com/article/mg21228354-500-revealed-the-capitalist-network-that-runs-the-world/)
+* Netflix: [Requiem for the American Dream](http://www.imdb.com/title/tt3270538/)
 
 #### Poverty
 * Aljazeera: [Exposing the great "poverty reduction" lie](http://www.aljazeera.com/indepth/opinion/2014/08/exposing-great-poverty-reductio-201481211590729809.html)
