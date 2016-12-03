@@ -1,4 +1,4 @@
-Table of Content
+## Table of Content
 
 1. [Basics] (#)
 2. [Political Economy (Structure)] (#)
