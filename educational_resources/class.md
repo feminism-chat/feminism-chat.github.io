@@ -453,6 +453,9 @@
 #### Chiang Ching
 * A World to Win: [Chiang Ching The Revolutionary Ambitions of a Communist Leader](http://www.aworldtowin.org/back_issues/1993-19/chiang_Ching.htm)
 
+#### Noam Chomsky
+* Al Jazeera English: [Noam Chomsky on the new Trump era - UpFront special](https://www.youtube.com/watch?v=jB54XxbgI0E&t=970s)
+
 ---
 
 ### Politics
@@ -524,3 +527,4 @@
 
 #### Interviews
 * Joseph Stalin: [Marxism vs Liberalism](http://rationalrevolution.net/special/library/cc835_44.htm)
+* Bill Maher: [President Obama: FULL INTERVIEW | Real Time with Bill Maher (HBO)](https://www.youtube.com/watch?v=xXH5agV7skw)
