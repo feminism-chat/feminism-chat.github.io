@@ -94,6 +94,13 @@
 * New Scientist: [Revealed – the capitalist network that runs the world](https://www.newscientist.com/article/mg21228354-500-revealed-the-capitalist-network-that-runs-the-world/)
 * Netflix: [Requiem for the American Dream](http://www.imdb.com/title/tt3270538/)
 
+#### Universal Basic income
+* CNBC: [Facebook co-founder's new $10 million initiative to test if cash handouts will help fix America](http://www.cnbc.com/2016/12/09/facebook-co-founders-new-10-million-initiative-to-test-if-cash-handouts-will-help-fix-america.html)
+* TED: [Why we should give everyone a basic income | Rutger Bregman](http://tedxtalks.ted.com/video/Why-we-should-give-everyone-a-b)
+* TED: [What if we were free to work? | Olivier Schneller](http://tedxtalks.ted.com/video/What-if-we-were-free-to-work-Ol)
+* TED: [Basic income and other ways to fix capitalism | Federico Pistono](https://www.youtube.com/watch?v=A2aBKnr3Ep4)
+* TED: [Why we shouldn't have to work just to survive | Jonny Ross-Tatam](https://www.youtube.com/watch?v=3U6tEcIIAIc)
+
 #### Poverty
 * Aljazeera: [Exposing the great "poverty reduction" lie](http://www.aljazeera.com/indepth/opinion/2014/08/exposing-great-poverty-reductio-201481211590729809.html)
 * The Guardian: [It will take 100 years for the world’s poorest people to earn $1.25 a day ](http://www.theguardian.com/global-development-professionals-network/2015/mar/30/it-will-take-100-years-for-the-worlds-poorest-people-to-earn-125-a-day)
