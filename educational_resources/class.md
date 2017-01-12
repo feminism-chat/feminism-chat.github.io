@@ -1,3 +1,28 @@
+## Table of Content
+
+1. [Basics] (#)
+2. [Political Economy (Structure)] (#)
+3. [Political Economy (History)] (#)
+4. [Historical/Dialectical Materialism] (#)
+5. [Philosophy] (#)
+6. [Anthropology/Sociology] (#)
+7. [Leninism] (#)
+8. [Trotskyism] (#)
+9. [Stalinism] (#)
+10. [Moaism] (#)
+11. [Anarchism] (#)
+12. [Socialism/Communism] (#)
+13. [Oppression] (#)
+14. [Revolution] (#)
+15. [Violence] (#)
+16. [History] (#)
+17. [People] (#)
+18. [Politics] (#)
+19. [Leftist Maladies] (#)
+20. [Environment] (#)
+21. [Culture] (#)
+22. [Other] (#)
+
 ### Basics
 
 #### Brief Introductions
@@ -68,6 +93,13 @@
 * alyx.io: [Solving World Hunger in 6.9 Days – The 256 Most Profitable Corporations](http://alyx.io/capitalism/2014/01/21/corporate-profit-world-hunger/)
 * New Scientist: [Revealed – the capitalist network that runs the world](https://www.newscientist.com/article/mg21228354-500-revealed-the-capitalist-network-that-runs-the-world/)
 * Netflix: [Requiem for the American Dream](http://www.imdb.com/title/tt3270538/)
+
+#### Universal Basic income
+* CNBC: [Facebook co-founder's new $10 million initiative to test if cash handouts will help fix America](http://www.cnbc.com/2016/12/09/facebook-co-founders-new-10-million-initiative-to-test-if-cash-handouts-will-help-fix-america.html)
+* TED: [Why we should give everyone a basic income | Rutger Bregman](http://tedxtalks.ted.com/video/Why-we-should-give-everyone-a-b)
+* TED: [What if we were free to work? | Olivier Schneller](http://tedxtalks.ted.com/video/What-if-we-were-free-to-work-Ol)
+* TED: [Basic income and other ways to fix capitalism | Federico Pistono](https://www.youtube.com/watch?v=A2aBKnr3Ep4)
+* TED: [Why we shouldn't have to work just to survive | Jonny Ross-Tatam](https://www.youtube.com/watch?v=3U6tEcIIAIc)
 
 #### Poverty
 * Aljazeera: [Exposing the great "poverty reduction" lie](http://www.aljazeera.com/indepth/opinion/2014/08/exposing-great-poverty-reductio-201481211590729809.html)
@@ -453,6 +485,9 @@
 #### Chiang Ching
 * A World to Win: [Chiang Ching The Revolutionary Ambitions of a Communist Leader](http://www.aworldtowin.org/back_issues/1993-19/chiang_Ching.htm)
 
+#### Noam Chomsky
+* Al Jazeera English: [Noam Chomsky on the new Trump era - UpFront special](https://www.youtube.com/watch?v=jB54XxbgI0E&t=970s)
+
 ---
 
 ### Politics
@@ -524,3 +559,4 @@
 
 #### Interviews
 * Joseph Stalin: [Marxism vs Liberalism](http://rationalrevolution.net/special/library/cc835_44.htm)
+* Bill Maher: [President Obama: FULL INTERVIEW | Real Time with Bill Maher (HBO)](https://www.youtube.com/watch?v=xXH5agV7skw)
