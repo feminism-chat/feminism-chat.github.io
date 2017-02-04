@@ -123,7 +123,7 @@ We periodically put the channel into moderated mode (+m) so that only voiced use
 
 # Moderators
 
-[@Avani](https://github.com/annavani) \| @elky \| [@GorillaWarfare](https://github.com/molly) \| @Keilana \| [@LambdaSix](https://github.com/LambdaSix) \| @locas \| @SaturnAmy \| [@yar](https://github.com/yardenac)
+[@Avani](https://github.com/annavani) \| @elky \| [@GorillaWarfare](https://github.com/molly) \| [@LambdaSix](https://github.com/LambdaSix) \| [@yar](https://github.com/yardenac)
 
 Feel free to contact any of the moderators on IRC, if you have any issues or questions.
 
