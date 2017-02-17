@@ -26,7 +26,9 @@ A guide on obtaining a cloak can be found [here](/cloak/).
 
 ## Via Webchat
 
-[![Visit our IRC channel](https://kiwiirc.com/buttons/chat.freenode.net/%23feminism.png)](https://kiwiirc.com/client/chat.freenode.net:+6697/##feminism)
+Some common web gateways are unable to access ##feminism due to repeated misuse. If you're unable to install a client, [IRCCloud](https://irccloud.com) offers "trial" accounts for no cost. You will need to make sure you select the freenode network.
+
+IRCCloud accounts get a gateway cloak which does not display your IP address or host.
 
 ***
 
@@ -121,7 +123,7 @@ We periodically put the channel into moderated mode (+m) so that only voiced use
 
 # Moderators
 
-@elky \| [@GorillaWarfare](https://github.com/molly) \| @Keilana \| [@LambdaSix](https://github.com/LambdaSix) \| @locas \| @SaturnAmy \| [@yar](https://github.com/yardenac)
+[@Avani](https://github.com/annavani) \| @elky \| [@GorillaWarfare](https://github.com/molly) \| [@LambdaSix](https://github.com/LambdaSix) \| [@yar](https://github.com/yardenac)
 
 Feel free to contact any of the moderators on IRC, if you have any issues or questions.
 
