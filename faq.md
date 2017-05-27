@@ -4,6 +4,10 @@ content_type: md
 title: FAQ
 ---
 
+# Why was I banned from #feminism?
+
+Our channel is named ##feminism - note the two hash characters. We do not control #feminism. The operators of #feminism quit irc years ago, and banned everybody from their channel, including us. Ideally we'd like it to redirect to ##feminism, but freenode won't transfer ownership because of [channel naming rules](https://freenode.net/policies).
+
 # Why did [xyz] get banned?
 
 Our channel is regularly targeted by abusive and persistent trolls. Freenode only allows a limited number of channel bans, so our bot has to rotate them. This means many previous trolls are able to join for a few seconds before being re-banned. Please trust that there's a good reason. Moderating this channel is already emotionally exhausting enough without having to rehash everything on demand, especially to newcomers.
