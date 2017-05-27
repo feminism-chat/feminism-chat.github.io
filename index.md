@@ -99,10 +99,3 @@ x. Those who want to engage in bourgeois speech will not be able to do so in ##f
 #### **With the exception of toxic/reactionary ideologies:
 Sexists, transphobes, fascists, consistent apologists for imperialism, racists, homophobes, ableists, and other bigots are not welcome. They shall be banned on sight. If a banned user wishes to rejoin the space, rehabilitation may require a private or public repudiation of the toxic ideology and a private apology to those affected and/or an in-channel apology. Ops may through constructive consensus expand the ideologies regarded as toxic; the list above is not exhaustive but serves as a guide. Reactionary and conservative ideologies that wish to eliminate the gains feminists have fought for or uphold oppressions we are currently combating are all considered toxic.
 
-***
-
-# Moderators
-
-[@Avani](https://github.com/annavani) \| @elky \| [@GorillaWarfare](https://github.com/molly) \| [@LambdaSix](https://github.com/LambdaSix) \| [@yar](https://github.com/yardenac)
-
-Feel free to contact any of the moderators on IRC, if you have any issues or questions.
