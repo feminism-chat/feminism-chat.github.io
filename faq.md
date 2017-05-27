@@ -12,6 +12,10 @@ A feminist IRC channel (chat room). We talk about gender, politics, oppression a
 
 No, we are actual feminists. Not trolls, not a parody.
 
+# Why does this chat exist?
+
+To connect feminists with each other. To raise consciousness. To bring feminists to freenode and freenode to feminists. To improve feminism, and to be better feminists. To provide us with a friendly place to talk, learn and change the world.
+
 # How do I connect?
 
 We recommend installing an IRC client:

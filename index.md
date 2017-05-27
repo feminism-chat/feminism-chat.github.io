@@ -13,11 +13,3 @@ We ask that sectarianism be kept to a minimum. While criticism is allowed, we do
 
 ### 8. Unwelcome Comments on Users' Personal Choices Will Not Be Allowed.
 Although we recognize the personal is political, this is not a space to express uninvited opinions or criticize other people's personal lifestyle choices, especially as it concerns health, diet, employment, body modification, and personal relationships.
-
-### Notes
-
-#### *On free speech:
-
-* This chat room is meant to be a more friendly place for feminists to participate without having to be subjected to oppressive speech. Women, people of colour, queer people should feel welcome. Do your part.
-
-ix. This chat room's aim towards this subject is to create a class-conscious speech. Readers will note that speech has a class character, and that socialist feminists are against bourgeois speech. The aim of this space is to create an environment that promotes continuous discussion that accretes theory and knowledge.
