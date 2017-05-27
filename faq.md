@@ -94,3 +94,5 @@ Tell us your favorite balloon animal.
 [@Avani](https://github.com/annavani) \| @elky \| [@GorillaWarfare](https://github.com/molly) \| [@LambdaSix](https://github.com/LambdaSix) \| [@yar](https://github.com/yardenac)
 
 Feel free to contact any of the moderators on IRC, if you have any issues or questions.
+
+Mods have set their clients to highlight the word `!femops` - if you need to get all our attention at once, just type that word into the channel.
