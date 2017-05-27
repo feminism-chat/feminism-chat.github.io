@@ -91,6 +91,8 @@ All that said, a few kinds of criticism are *not ok*. Although we recognize the 
 
 Our sister channel, [##socialism](https://freenode-socialism.github.io/), has some great [educational resources](https://freenode-socialism.github.io/educational-resources/)
 
+We also have a [links page](/links/) but it hasn't been curated in a very long time.
+
 # Can I keep logs?
 
 Privately, yes. But don't publish anybody's words without their consent.
