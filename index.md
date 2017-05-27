@@ -8,17 +8,7 @@ title: Home
 
 ### 1. \##feminism Stands in Opposition to Liberal Notions of "Free Speech"*.
 
-We believe that speech, like everything else, has a class character, and that some speech can be oppressive. This is why speech that is patriarchal, racist, cissexist, homophobic, ableist, or otherwise oppressive is banned. People who use this speech will either be warned and asked to change the wording of their comments, or will be outright banned, depending on context. Users should also take care to censor their usage of slurs.
-
-
-### 2. Do Not Attempt to Justify Your Use of Oppressive Language.
-
-Doing this will almost assuredly result in a ban. Accept the criticism in a principled manner, retract or change your comment accordingly, and move on, learning from your mistake.
-
-
-### 5. Users Complaining About “Authoritarian” Moderation Methods Will Be Banned.
-
-If you do not like the style of moderation of this chat room, you are free to leave. There are other chat rooms that are better suited to you. If you feel you have a legitimate grievance, message the moderators. Attacking moderators in the chat room will likely result in a ban.
+We believe that speech, like everything else, has a class character, and that some speech can be oppressive. This is why speech that is patriarchal, racist, cissexist, homophobic, ableist, or otherwise oppressive is banned. Users should also take care to censor their usage of slurs.
 
 
 ### 6. Feminists of All Tendencies Are Welcome Here**.
@@ -59,8 +49,6 @@ vii. Patriarchal, white supremacist, cissexist, homophobic, or otherwise oppress
 viii. Free speech will also be used in the defence of off-topic discussions, or comments that otherwise break the rules of ##feminism. To this the response of this chat room is: if all discussions can exist everywhere, what is the purpose of having several different chat rooms?
 
 ix. This chat room's aim towards this subject is to create a class-conscious speech. Readers will note that speech has a class character, and that socialist feminists are against bourgeois speech. The aim of this space is to create an environment that promotes continuous discussion that accretes theory and knowledge.
-
-x. Those who want to engage in bourgeois speech will not be able to do so in ##feminism, but they have many other spaces to choose from, and can create their own chat rooms.
 
 #### **With the exception of toxic/reactionary ideologies:
 Sexists, transphobes, fascists, consistent apologists for imperialism, racists, homophobes, ableists, and other bigots are not welcome. They shall be banned on sight. If a banned user wishes to rejoin the space, rehabilitation may require a private or public repudiation of the toxic ideology and a private apology to those affected and/or an in-channel apology. Ops may through constructive consensus expand the ideologies regarded as toxic; the list above is not exhaustive but serves as a guide. Reactionary and conservative ideologies that wish to eliminate the gains feminists have fought for or uphold oppressions we are currently combating are all considered toxic.

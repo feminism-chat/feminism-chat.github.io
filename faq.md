@@ -45,6 +45,7 @@ New people are especially encouraged to stay on-topic. We prefer that people alw
 
 Yes, but not about everything. Some opinions are mandatory. The mandatory opinions are:
 1. Feminism is necessary and good
+1. The channel rules are necessary and good
 1. Capitalism is bad
 1. The police and military systems in capitalist nations are bad
 1. Structural oppression exists against women, people of color, queer, transgender and disabled people, and this is bad
@@ -55,6 +56,16 @@ If you disagree with any of these statements, you must either change your mind, 
 # Where can I read more?
 
 Our sister channel, [##socialism](https://freenode-socialism.github.io/), has some great [educational resources](https://freenode-socialism.github.io/educational-resources/)
+
+# What happens if I break a rule?
+
+If it's an edge case you'll probably get a mod warning. If it's blatant aggression, you'll be insta-banned.
+
+# What happens if I get a mod warning?
+
+Apologize. Accept criticism in a principled manner, retract or change your comment accordingly, and move on, learning from your mistake.
+
+If you try to fight with the mods, you will probably be banned.
 
 # Why was I banned from #feminism?
 
