@@ -44,7 +44,7 @@ New people are especially encouraged to stay on-topic. We prefer that people alw
 # Am I allowed to disagree with you or hold different opinions?
 
 Yes, but not about everything. Some opinions are mandatory. The mandatory opinions are:
-1. Feminism is necessary and good
+1. Feminism is necessary and good (no [MRAs](https://en.wikipedia.org/wiki/Men's_rights_movement))
 1. The channel rules are necessary and good
 1. Capitalism is bad
 1. The police and military systems in capitalist nations are bad

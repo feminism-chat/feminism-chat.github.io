@@ -39,7 +39,7 @@ v. \##feminism is not a liberal chat room.  Liberals might come in the defence o
 
 vi. Oppressive speech supports authority where it is undue (for example: the authority of white people over black people, of men over women). Thus, this space rejects the liberal accusations of authoritarianism based on its stance against free speech.
 
-* Men, White people, heterosexuals, cis people, and abled people set the oppressive normative standards of our society. Attacking such groups does not qualify as oppressive speech and is not equivalent to attacking oppressed groups; reverse racism and misandry do not exist. MRAs will be instantly banned.
+* Men, White people, heterosexuals, cis people, and abled people set the oppressive normative standards of our society. Attacking such groups does not qualify as oppressive speech and is not equivalent to attacking oppressed groups; reverse racism and misandry do not exist.
 
 vii. Patriarchal, white supremacist, cissexist, homophobic, or otherwise oppressive speech is not tolerated here.
 
