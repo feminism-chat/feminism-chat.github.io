@@ -6,11 +6,6 @@ title: Home
 
 # Rules and Guidelines
 
-### 1. \##feminism Stands in Opposition to Liberal Notions of "Free Speech"*.
-
-We believe that speech, like everything else, has a class character, and that some speech can be oppressive. This is why speech that is patriarchal, racist, cissexist, homophobic, ableist, or otherwise oppressive is banned.
-
-
 ### 6. Feminists of All Tendencies Are Welcome Here**.
 
 We ask that sectarianism be kept to a minimum. While criticism is allowed, we do not tolerate trash-talking or petty fighting; it must come from a position of striving to improve feminism and the material conditions of women's lives. People repeatedly 'trash talking' other groups, or trolling with their criticism, can and will be muted or banned.
@@ -27,22 +22,10 @@ Public logs can have a chilling effect on discussion, so users are not allowed t
 
 #### *On free speech:
 
-i. This space opposes free speech, which generates a lot of misguided accusations. Opposing free speech does not mean we reject the notion of debating opposing viewpoints, or that we support the practice of personal censorship. This space rejects the notion that all speech belongs everywhere.
-
-ii. This space is opposed to oppressive speech. ##feminism gets denunciations that view this guideline as oppressive. For those who are truly concerned about eliminating oppression, why would you defend oppressive speech to eternity? If oppression is to be ended, oppression through speech cannot continue.
-
-iii. Oppressive speech is a part of free speech.
-
-iv. Feminists in this space will often reject the defence of oppressive speech as a liberal tenet. Some feminists who aim to eliminate oppression do not defend the speech of the oppressors, such as the speech of racists, sexists and homophobes. This forum supports these efforts.
-
 vi. Oppressive speech supports authority where it is undue (for example: the authority of white people over black people, of men over women). Thus, this space rejects the liberal accusations of authoritarianism based on its stance against free speech.
-
-vii. Patriarchal, white supremacist, cissexist, homophobic, or otherwise oppressive speech is not tolerated here.
 
 * This chat room is meant to be a more friendly place for feminists to participate without having to be subjected to oppressive speech. Women, people of colour, queer people should feel welcome. Do your part.
 * This is not restricted to comments that are openly hateful (for example: I hate women, women are inferior, etc). For example: if there is a comment about the first woman cosmonaut, and there is a user who chose to comment solely on her hair, this poster is being objectively sexist. Try to educate yourselves and each other. The moderators will try not to be overzealous in enforcing the policy, but politely ask that you try to err against posting offensive things. This chat room believes that humour, serious theoretical discussions and casual conversations can all be had without offending anyone.
-
-viii. Free speech will also be used in the defence of off-topic discussions, or comments that otherwise break the rules of ##feminism. To this the response of this chat room is: if all discussions can exist everywhere, what is the purpose of having several different chat rooms?
 
 ix. This chat room's aim towards this subject is to create a class-conscious speech. Readers will note that speech has a class character, and that socialist feminists are against bourgeois speech. The aim of this space is to create an environment that promotes continuous discussion that accretes theory and knowledge.
 
