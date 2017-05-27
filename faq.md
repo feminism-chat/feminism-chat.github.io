@@ -28,6 +28,10 @@ We define feminism as a collection of movements and ideologies aimed at eliminat
 
 No. Women get misogyny and men get male privilege.
 
+# Where do you all live?
+
+All around the world, not just in the USA. So please don't be US-centric.
+
 # Am I allowed to disagree with you or hold different opinions?
 
 Yes, but not about everything. Some opinions are mandatory. The mandatory opinions are:
