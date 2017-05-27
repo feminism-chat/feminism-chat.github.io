@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="/stylesheets/pygment_trac.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script src="/javascripts/main.js"></script>
+    <script src="/dev/javascripts/anchorjs/anchor.min.js"></script>
     <!--[if lt IE 9]>
       <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -53,5 +54,12 @@
       </footer>
     </div>
     <!--[if !IE]><script>fixScale(document);</script><!--<![endif]-->
+      <script>
+        anchors.options = {
+        icon: '#',
+        visible: 'touch'
+        }
+        anchors.add('section h1, section h2');
+      </script>
   </body>
 </html>
