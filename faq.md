@@ -24,6 +24,10 @@ Other common web gateways (kiwiirc, freenode webchat, matrix) are banned due to 
 
 We define feminism as a collection of movements and ideologies aimed at eliminating political, economic, and social inequalities between genders arising from structural oppression and exploitation of those who aren't men.
 
+# What are your politics?
+
+We are far to the left of both conservatives and liberals. Deal with it.
+
 # Aren't women already equal to men?
 
 No. Women get misogyny and men get male privilege.

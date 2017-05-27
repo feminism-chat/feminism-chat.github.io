@@ -35,8 +35,6 @@ iii. Oppressive speech is a part of free speech.
 
 iv. Feminists in this space will often reject the defence of oppressive speech as a liberal tenet. Some feminists who aim to eliminate oppression do not defend the speech of the oppressors, such as the speech of racists, sexists and homophobes. This forum supports these efforts.
 
-v. \##feminism is not a liberal chat room.  Liberals might come in the defence of Nazi speech, feminists in this space won't.
-
 vi. Oppressive speech supports authority where it is undue (for example: the authority of white people over black people, of men over women). Thus, this space rejects the liberal accusations of authoritarianism based on its stance against free speech.
 
 * Men, White people, heterosexuals, cis people, and abled people set the oppressive normative standards of our society. Attacking such groups does not qualify as oppressive speech and is not equivalent to attacking oppressed groups; reverse racism and misandry do not exist.
