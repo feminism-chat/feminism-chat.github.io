@@ -80,6 +80,10 @@ Apologize. Accept criticism in a principled manner, retract or change your comme
 
 If you try to fight with the mods, you will probably be banned.
 
+# I've been banned. How do I get back in?
+
+Ask an op. We'll probably want you to apologize and prove that you've changed. Don't get your hopes up. Don't try to rejoin - we hate ban evasion.
+
 # What about free speech?
 
 If you want to say racist, sexist, homophobic, ableist or other oppressive things, go say them elsewhere. Preferably where nobody can hear you. Also you should be ashamed of yourself, and possibly punched.
