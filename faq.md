@@ -80,9 +80,12 @@ Yes! If someone is saying harmful things or behaving in a harmful way, it is abs
 1. Be earnest, rather than sarcastic
 1. Be assertive, rather than passive aggressive
 1. Keep it in good faith. No trash talking, pettiness or trolling
+1. Be ready to accept criticism in turn. Don't dish what you can't take
 1. Remember we all want the same thing. Don't be super sectarian. Don't be the stereotype of the left eating itself
 
 If somebody criticizes YOU, please try to take it in stride.
+
+All that said, a few kinds of criticism are *not ok*. Although we recognize the personal is political, this is not a space to express uninvited opinions or criticize other people's personal lifestyle choices, especially as it concerns health, diet, employment, body modification, and personal relationships.
 
 # Where can I read more?
 
