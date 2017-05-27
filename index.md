@@ -14,9 +14,6 @@ We define feminism as a collection of movements and ideologies aimed at eliminat
 
 # Rules and Guidelines
 
-**This specific chat room isn't here to convert people; it is here to facilitate discussion between feminists as well as bring to the forefront the often ignored ways in which capitalism oppresses women and other groups.** There are other spaces on the internet readily available for those who are on the fence or wish to engage in debate on the necessity of the feminist movement.
-
-
 ### 1. \##feminism Stands in Opposition to Liberal Notions of "Free Speech"*.
 
 We believe that speech, like everything else, has a class character, and that some speech can be oppressive. This is why speech that is patriarchal, racist, cissexist, homophobic, ableist, or otherwise oppressive is banned. People who use this speech will either be warned and asked to change the wording of their comments, or will be outright banned, depending on context. Users should also take care to censor their usage of slurs.
