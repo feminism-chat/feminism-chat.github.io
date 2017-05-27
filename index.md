@@ -32,6 +32,12 @@ IRCCloud accounts get a gateway cloak which does not display your IP address or 
 
 ***
 
+# Frequently Asked Questions
+
+Please [read them](/faq/)
+
+***
+
 # Rules and Guidelines
 
 **This specific chat room isn't here to convert people; it is here to facilitate discussion between feminists as well as bring to the forefront the often ignored ways in which capitalism oppresses women and other groups.** There are other spaces on the internet readily available for those who are on the fence or wish to engage in debate on the necessity of the feminist movement.
