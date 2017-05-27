@@ -126,10 +126,3 @@ Sexists, transphobes, fascists, consistent apologists for imperialism, racists, 
 [@Avani](https://github.com/annavani) \| @elky \| [@GorillaWarfare](https://github.com/molly) \| [@LambdaSix](https://github.com/LambdaSix) \| [@yar](https://github.com/yardenac)
 
 Feel free to contact any of the moderators on IRC, if you have any issues or questions.
-
-***
-
-# Using the Bot
-No one knows how to do this, really--not even us!
-
-***
