@@ -16,6 +16,10 @@ If you can't install a client, [IRCCloud](https://irccloud.com) offers "trial" a
 
 Other common web gateways (kiwiirc, freenode webchat, matrix) are banned due to repeated misuse.
 
+# What is feminism?
+
+We define feminism as a collection of movements and ideologies aimed at eliminating political, economic, and social inequalities between genders arising from structural oppression and exploitation of those who aren't men.
+
 # Am I allowed to disagree with you or hold different opinions?
 
 Yes, but not about everything. Some opinions are mandatory. The mandatory opinions are:

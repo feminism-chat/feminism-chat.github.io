@@ -8,8 +8,6 @@ title: Home
 
 A feminist IRC channel (chat room). We talk about gender, politics, oppression and many other things. We lean geeky and radical leftist. We like your company!
 
-We define feminism as a collection of movements and ideologies aimed at eliminating political, economic, and social inequalities between genders arising from structural oppression and exploitation of those who aren't men.
-
 ***
 
 # Rules and Guidelines
