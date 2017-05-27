@@ -66,6 +66,10 @@ If you disagree with any of these statements, you must either change your mind, 
 
 Those are not real things, are not threats to anybody, are not at all equivalent to racism, misogyny or transphobia, and therefore are ok to joke about at length. So no, we're not. Yes we are. No. Yes. Yes.
 
+# Is it ok to criticize other people?
+
+Yes! If someone is saying harmful things or behaving in a harmful way, it is absolutely ok to say so. If somebody criticizes YOU, please try to take it in stride.
+
 # Where can I read more?
 
 Our sister channel, [##socialism](https://freenode-socialism.github.io/), has some great [educational resources](https://freenode-socialism.github.io/educational-resources/)
