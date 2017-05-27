@@ -84,6 +84,8 @@ If you try to fight with the mods, you will probably be banned.
 
 If you want to say racist, sexist, homophobic, ableist or other oppressive things, go say them elsewhere. Preferably where nobody can hear you. Also you should be ashamed of yourself, and possibly punched.
 
+We're not authoritarian or fascist. We're anti-authoritarian and anti-fascist. If you're authoritarian or fascist, get lost. We see no contradictions here.
+
 # Why was I banned from #feminism?
 
 Our channel is named ##feminism - note the two hash characters. We do not control #feminism. The operators of #feminism quit irc years ago, and banned everybody from their channel, including us. Ideally we'd like it to redirect to ##feminism, but freenode won't transfer ownership because of [channel naming rules](https://freenode.net/policies).

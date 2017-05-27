@@ -22,8 +22,6 @@ Public logs can have a chilling effect on discussion, so users are not allowed t
 
 #### *On free speech:
 
-vi. Oppressive speech supports authority where it is undue (for example: the authority of white people over black people, of men over women). Thus, this space rejects the liberal accusations of authoritarianism based on its stance against free speech.
-
 * This chat room is meant to be a more friendly place for feminists to participate without having to be subjected to oppressive speech. Women, people of colour, queer people should feel welcome. Do your part.
 * This is not restricted to comments that are openly hateful (for example: I hate women, women are inferior, etc). For example: if there is a comment about the first woman cosmonaut, and there is a user who chose to comment solely on her hair, this poster is being objectively sexist. Try to educate yourselves and each other. The moderators will try not to be overzealous in enforcing the policy, but politely ask that you try to err against posting offensive things. This chat room believes that humour, serious theoretical discussions and casual conversations can all be had without offending anyone.
 
