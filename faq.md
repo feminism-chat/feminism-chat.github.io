@@ -4,6 +4,18 @@ content_type: md
 title: FAQ
 ---
 
+# How do I connect?
+
+We recommend installing an IRC client:
+1. Connect it to `chat.freenode.net:6697`
+2. [Register your nick](https://freenode.net/kb/answer/registration)
+3. [Obtain a cloak](/cloak/) (optional)
+4. Join `##feminism`
+
+If you can't install a client, [IRCCloud](https://irccloud.com) offers "trial" accounts for no cost. Make sure you select the freenode network. You'll get a gateway cloak automatically.
+
+Other common web gateways (kiwiirc, freenode webchat, matrix) are banned due to repeated misuse.
+
 # Why was I banned from #feminism?
 
 Our channel is named ##feminism - note the two hash characters. We do not control #feminism. The operators of #feminism quit irc years ago, and banned everybody from their channel, including us. Ideally we'd like it to redirect to ##feminism, but freenode won't transfer ownership because of [channel naming rules](https://freenode.net/policies).

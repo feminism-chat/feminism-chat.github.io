@@ -12,26 +12,6 @@ We define feminism as a collection of movements and ideologies aimed at eliminat
 
 Trans woman exclusionary radical feminists are not welcome.
 
-***
-
-# How to Connect
-
-## Via IRC Client
-
-Simply connect to [chat.freenode.net:6697](ircs://chat.freenode.net:6697/%23%23feminism) (SSL)
-or [chat.freenode.net:6667](irc://chat.freenode.net:6667/%23%23feminism) and join
-[##feminism](ircs://chat.freenode.net:6697/%23%23feminism)
-
-A guide on obtaining a cloak can be found [here](/cloak/).
-
-## Via Webchat
-
-Some common web gateways are unable to access ##feminism due to repeated misuse. If you're unable to install a client, [IRCCloud](https://irccloud.com) offers "trial" accounts for no cost. You will need to make sure you select the freenode network.
-
-IRCCloud accounts get a gateway cloak which does not display your IP address or host.
-
-***
-
 # Frequently Asked Questions
 
 Please [read them](/faq/)
