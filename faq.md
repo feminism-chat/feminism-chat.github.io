@@ -76,7 +76,13 @@ Those are not real things, are not threats to anybody, are not at all equivalent
 
 # Is it ok to criticize other people?
 
-Yes! If someone is saying harmful things or behaving in a harmful way, it is absolutely ok to say so. If somebody criticizes YOU, please try to take it in stride.
+Yes! If someone is saying harmful things or behaving in a harmful way, it is absolutely ok to say so. What's the best way to criticize someone, you ask?
+1. Be earnest, rather than sarcastic
+1. Be assertive, rather than passive aggressive
+1. Keep it in good faith. No trash talking, pettiness or trolling
+1. Remember we all want the same thing. Don't be super sectarian. Don't be the stereotype of the left eating itself
+
+If somebody criticizes YOU, please try to take it in stride.
 
 # Where can I read more?
 
