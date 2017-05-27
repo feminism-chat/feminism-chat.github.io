@@ -41,6 +41,10 @@ No. Please don't talk about these topics:
 
 New people are especially encouraged to stay on-topic. We prefer that people always talk about feminism, but are more willing to be lenient with long-time contributors.
 
+# Are there words I cannot say?
+
+Yes. Please don't use slurs. If you must use them in a critical or reclamatory way, please censor them l*ke th*s.
+
 # Am I allowed to disagree with you or hold different opinions?
 
 Yes, but not about everything. Some opinions are mandatory. The mandatory opinions are:

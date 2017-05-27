@@ -8,7 +8,7 @@ title: Home
 
 ### 1. \##feminism Stands in Opposition to Liberal Notions of "Free Speech"*.
 
-We believe that speech, like everything else, has a class character, and that some speech can be oppressive. This is why speech that is patriarchal, racist, cissexist, homophobic, ableist, or otherwise oppressive is banned. Users should also take care to censor their usage of slurs.
+We believe that speech, like everything else, has a class character, and that some speech can be oppressive. This is why speech that is patriarchal, racist, cissexist, homophobic, ableist, or otherwise oppressive is banned.
 
 
 ### 6. Feminists of All Tendencies Are Welcome Here**.
