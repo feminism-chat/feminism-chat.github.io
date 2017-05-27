@@ -8,6 +8,10 @@ title: FAQ
 
 A feminist IRC channel (chat room). We talk about gender, politics, oppression and many other things. We lean geeky and radical leftist. We like your company!
 
+# Is this a joke?
+
+No, we are actual feminists. Not trolls, not a parody.
+
 # How do I connect?
 
 We recommend installing an IRC client:
