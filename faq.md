@@ -55,7 +55,7 @@ New people are especially encouraged to stay on-topic. We prefer that people alw
 
 # Are there words I cannot say?
 
-Yes. Please don't use slurs. If you must use them in a critical or reclamatory way, please censor them l*ke th*s.
+Yes. Please don't use slurs. If you must use them in a critical or reclamatory way, please censor them l\*ke th\*s.
 
 # Am I allowed to disagree with you or hold different opinions?
 
