@@ -32,6 +32,15 @@ No. Women get misogyny and men get male privilege.
 
 All around the world, not just in the USA. So please don't be US-centric.
 
+# Can I talk about anything I want?
+
+No. Please don't talk about these topics:
+1. your recreational drug use (including alcohol)
+1. your personal sexual exploits
+1. public displays of affection and flirting
+
+New people are especially encouraged to stay on-topic. We prefer that people always talk about feminism, but are more willing to be lenient with long-time contributors.
+
 # Am I allowed to disagree with you or hold different opinions?
 
 Yes, but not about everything. Some opinions are mandatory. The mandatory opinions are:

@@ -16,11 +16,6 @@ We believe that speech, like everything else, has a class character, and that so
 Doing this will almost assuredly result in a ban. Accept the criticism in a principled manner, retract or change your comment accordingly, and move on, learning from your mistake.
 
 
-### 3. Discussions That Are Off-Topic or Otherwise Irrelevant to ##feminism Will be Redirected.
-
-This includes discussions about recreational drug use (including alcohol), public displays of affection and flirting, and sexual exploits.
-
-
 ### 5. Users Complaining About “Authoritarian” Moderation Methods Will Be Banned.
 
 If you do not like the style of moderation of this chat room, you are free to leave. There are other chat rooms that are better suited to you. If you feel you have a legitimate grievance, message the moderators. Attacking moderators in the chat room will likely result in a ban.
