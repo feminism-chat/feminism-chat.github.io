@@ -21,11 +21,6 @@ Doing this will almost assuredly result in a ban. Accept the criticism in a prin
 This includes discussions about recreational drug use (including alcohol), public displays of affection and flirting, and sexual exploits. We also ask that users remain cognizant of the fact that our chat room is international in its make-up and take effort to discuss topics outside the USA.
 
 
-### 4. Comments Asking Entry-Level Questions Will Not Be Allowed.
-
-Questions like “What is feminism?” or “Aren't women already equal to men?” will not be tolerated as they are not the focus in this space. We ask that users educate themselves on these matters via our Educational Resources.
-
-
 ### 5. Users Complaining About “Authoritarian” Moderation Methods Will Be Banned.
 
 If you do not like the style of moderation of this chat room, you are free to leave. There are other chat rooms that are better suited to you. If you feel you have a legitimate grievance, message the moderators. Attacking moderators in the chat room will likely result in a ban.

@@ -24,6 +24,10 @@ Other common web gateways (kiwiirc, freenode webchat, matrix) are banned due to 
 
 We define feminism as a collection of movements and ideologies aimed at eliminating political, economic, and social inequalities between genders arising from structural oppression and exploitation of those who aren't men.
 
+# Aren't women already equal to men?
+
+No. Women get misogyny and men get male privilege.
+
 # Am I allowed to disagree with you or hold different opinions?
 
 Yes, but not about everything. Some opinions are mandatory. The mandatory opinions are:
@@ -33,6 +37,10 @@ Yes, but not about everything. Some opinions are mandatory. The mandatory opinio
 1. Trans women are women (i.e. no [TWERFs](https://en.wikipedia.org/wiki/Feminist_views_on_transgender_and_transsexual_people))
 
 If you disagree with any of these statements, you must either change your mind, keep it completely to yourself, or go away. It would be fine if someone made a channel to convert or debate with people who are on the fence. But it won't be ##feminism.
+
+# Where can I read more?
+
+Our sister channel, [##socialism](https://freenode-socialism.github.io/), has some great [educational resources](https://freenode-socialism.github.io/educational-resources/)
 
 # Why was I banned from #feminism?
 
