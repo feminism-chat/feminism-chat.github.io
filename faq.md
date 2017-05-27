@@ -54,7 +54,7 @@ Yes. Please don't use slurs. If you must use them in a critical or reclamatory w
 Yes, but not about everything. Some opinions are mandatory. The mandatory opinions are:
 1. Feminism is necessary and good (no [MRAs](https://en.wikipedia.org/wiki/Men's_rights_movement))
 1. The channel rules are necessary and good
-1. Capitalism is bad
+1. Capitalism, fascism and imperialism are bad
 1. The police and military systems in capitalist nations are bad
 1. Men, white people, straight cis wealthy and abled people have social privilege and this is bad
 1. Structural oppression exists against women, people of color, queer, transgender, poor and disabled people, and this is bad
