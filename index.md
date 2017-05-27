@@ -4,12 +4,6 @@ content_type: md
 title: Home
 ---
 
-# About Us
-
-A feminist IRC channel (chat room). We talk about gender, politics, oppression and many other things. We lean geeky and radical leftist. We like your company!
-
-***
-
 # Rules and Guidelines
 
 ### 1. \##feminism Stands in Opposition to Liberal Notions of "Free Speech"*.
