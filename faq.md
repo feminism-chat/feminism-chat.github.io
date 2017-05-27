@@ -70,6 +70,14 @@ Those are not real things, are not threats to anybody, are not at all equivalent
 
 Our sister channel, [##socialism](https://freenode-socialism.github.io/), has some great [educational resources](https://freenode-socialism.github.io/educational-resources/)
 
+# Can I keep logs?
+
+Privately, yes. But don't publish anybody's words without their consent.
+
+Please note that this rule is hard to enforce so we can't guarantee that nobody is logging publically. Even if you write nothing, note that logs may include your metadata: join & part information, nicks, local username and ip address or hostmask.
+
+If you notice anybody else publishing nonconsensual logs, please notify us immediately so we can ban them.
+
 # What happens if I break a rule?
 
 If it's an edge case you'll probably get a mod warning. If it's blatant aggression, you'll be insta-banned.
