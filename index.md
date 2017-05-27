@@ -114,12 +114,6 @@ x. Those who want to engage in bourgeois speech will not be able to do so in ##f
 Sexists, transphobes, fascists, consistent apologists for imperialism, racists, homophobes, ableists, and other bigots are not welcome. They shall be banned on sight. If a banned user wishes to rejoin the space, rehabilitation may require a private or public repudiation of the toxic ideology and a private apology to those affected and/or an in-channel apology. Ops may through constructive consensus expand the ideologies regarded as toxic; the list above is not exhaustive but serves as a guide. Reactionary and conservative ideologies that wish to eliminate the gains feminists have fought for or uphold oppressions we are currently combating are all considered toxic.
 
 ***
-<span class="anchor" id="mm"></span>
-
-# <a id="mm"></a>Misandry Mode
-We periodically put the channel into moderated mode (+m) so that only voiced users (+v) can speak. Voiced users are trusted channel regulars who are women, non-binary, or otherwise Not a Man™. We don't voice new users when in Misandry Mode, so please wait until another day to join in the discussion. The intent of Misandry Mode is to encourage women and others who may in other spheres feel discouraged from speaking, and to discourage men from dominating conversation in the channel. Those critical of this event should see note vi above.
-
-***
 
 # Moderators
 
