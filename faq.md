@@ -16,6 +16,11 @@ If you can't install a client, [IRCCloud](https://irccloud.com) offers "trial" a
 
 Other common web gateways (kiwiirc, freenode webchat, matrix) are banned due to repeated misuse.
 
+# Are all opinions welcome?
+
+No. The following opinions are not welcome:
+1. Trans-exclusionary, anti-trans-woman opinions (such as TWERFs)
+
 # Why was I banned from #feminism?
 
 Our channel is named ##feminism - note the two hash characters. We do not control #feminism. The operators of #feminism quit irc years ago, and banned everybody from their channel, including us. Ideally we'd like it to redirect to ##feminism, but freenode won't transfer ownership because of [channel naming rules](https://freenode.net/policies).
