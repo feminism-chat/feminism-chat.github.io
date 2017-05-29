@@ -67,6 +67,7 @@ Yes, but not about everything. Some opinions are mandatory. The mandatory opinio
 1. Men, white people, straight cis wealthy and abled people have social privilege and this is bad
 1. Structural oppression exists against women, people of color, queer, transgender, poor and disabled people, and this is bad
 1. Trans women are women (i.e. no [TWERFs](https://en.wikipedia.org/wiki/Feminist_views_on_transgender_and_transsexual_people))
+1. Sex work is work, sex workers deserve respect (no [SWERFs](http://sjwiki.org/wiki/Sex_worker_exclusionary_radical_feminism))
 
 If you disagree with any of these statements, you must either change your mind, keep it completely to yourself, or go away. It would be fine if someone made a channel to convert or debate with people who are on the fence. But it won't be ##feminism.
 
