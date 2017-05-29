@@ -635,11 +635,6 @@ header h1 a{
   color: #f3f3f3;
   text-shadow: 0px 2px 0px #6d2754;
   margin: 0px;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  -o-text-overflow: ellipsis;
-  -ms-text-overflow: ellipsis;
 }
 header h1 a:hover {
   color: #C0FF00;
@@ -696,13 +691,6 @@ footer {
   header, section, footer {
     float: none;
   }
-  header h1, section h1, footer h1 {
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    -o-text-overflow: ellipsis;
-    -ms-text-overflow: ellipsis;
-  }
 
   #banner {
     width: 100%;
@@ -742,11 +730,6 @@ footer {
   }
   header h1 {
     font-size: 32px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    -o-text-overflow: ellipsis;
-    -ms-text-overflow: ellipsis;
   }
   header p {
     display: none;
@@ -781,11 +764,6 @@ footer {
   }
   header h1 {
     font-size: 24px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    -o-text-overflow: ellipsis;
-    -ms-text-overflow: ellipsis;
   }
 
   section {
