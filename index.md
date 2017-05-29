@@ -140,6 +140,10 @@ Long story. We used to only give [+v](https://freenode.net/kb/answer/channelmode
 
 * Pinkwashing is a portmanteau compound word of the words pink and whitewashing. In the context of LGBT and intersex rights, it is used to describe a variety of marketing and political strategies aimed at promoting a product or an entity through an appeal to queer-friendliness, primarily by political or social activists. [--Wikipedia](https://en.wikipedia.org/wiki/Pinkwashing_(LGBT))
 
+# Who wrote this page?
+
+It's [on github](https://github.com/freenode-feminism/freenode-feminism.github.io). See the [contributors list](https://github.com/freenode-feminism/freenode-feminism.github.io/graphs/contributors).
+
 # I read this whole page! How do I prove it?
 
 Tell us your favorite balloon animal.
