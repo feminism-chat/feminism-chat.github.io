@@ -150,7 +150,7 @@ Tell us your favorite balloon animal.
 
 # Who are the moderators?
 
-[@Avani](https://github.com/annavani) \| @elky \| [@GorillaWarfare](https://github.com/molly) \| [@LambdaSix](https://github.com/LambdaSix) \| [@yar](https://github.com/yardenac)
+[@Avani](https://github.com/annavani) \| @elky \| @ferret_tails \| [@GorillaWarfare](https://github.com/molly) \| [@LambdaSix](https://github.com/LambdaSix) \| [@yar](https://github.com/yardenac)
 
 Feel free to contact any of the moderators on IRC, if you have any issues or questions.
 
