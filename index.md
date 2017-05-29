@@ -64,7 +64,7 @@ Yes, but not about everything. Some opinions are mandatory. The mandatory opinio
 1. The channel rules are necessary and good
 1. Capitalism, fascism and imperialism are bad
 1. The police and military systems in capitalist nations are bad
-1. Men, white people, straight, cis, wealthy and abled people have social privilege and this is bad
+1. Men, white people, straight, [cis](https://en.wikipedia.org/wiki/Cisgender), wealthy and abled people have social privilege and this is bad
 1. Structural oppression exists against women, people of color, queer, transgender, poor and disabled people, and this is bad
 1. Trans women are women (i.e. no [TWERFs](https://en.wikipedia.org/wiki/Feminist_views_on_transgender_and_transsexual_people))
 1. Sex work is work, sex workers deserve respect (no [SWERFs](http://sjwiki.org/wiki/Sex_worker_exclusionary_radical_feminism))
