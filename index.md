@@ -134,6 +134,10 @@ Our channel is regularly targeted by abusive and persistent trolls. Freenode onl
 
 Long story. We used to only give [+v](https://freenode.net/kb/answer/channelmodes) to non-men (i.e. women and nonbinary-gendered people - we called this "Misandry Mode"), then we gave it to all channel regulars, and lately we haven't bothered to hand it to new people since the channel is rarely [+m](https://freenode.net/kb/answer/channelmodes) anymore. So it doesn't mean anything.
 
+# How can you support Muslims? Islam is sexist!
+
+You're probably just concern trolling. But if you really care, you can educate yourself about [muslim feminists on wikipedia](https://en.wikipedia.org/wiki/Islamic_feminism).
+
 # What is pinkwashing?
 
 [Google it:](https://encrypted.google.com/search?hl=en&q=pinkwashing)
