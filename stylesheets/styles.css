@@ -729,9 +729,6 @@ footer {
   header h1 {
     font-size: 32px;
   }
-  header p {
-    display: none;
-  }
 
   #banner {
     top: 80px;
@@ -745,7 +742,6 @@ footer {
   }
 
   section {
-    margin-top: 130px;
     margin-bottom: 0px;
     width: auto;
   }
