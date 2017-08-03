@@ -40,6 +40,10 @@ We are far to the left of both conservatives and liberals. Deal with it.
 
 No. Women get misogyny and men get male privilege.
 
+# Aren't you just a bunch of gay autistic SJW lesbians?
+
+yes
+
 # Where do you all live?
 
 All around the world, not just in the USA. So please don't be US-centric.
