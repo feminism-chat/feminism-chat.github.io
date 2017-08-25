@@ -92,6 +92,17 @@ If somebody criticizes YOU, please try to take it in stride.
 
 All that said, a few kinds of criticism are *not ok*. Although we recognize the personal is political, this is not a space to express uninvited opinions or criticize other people's personal lifestyle choices, especially as it concerns health, diet, employment, body modification, and personal relationships.
 
+# How should I act, in general?
+
+There are many things we appreciate in a channel participant:
+
+* Willingness to learn - an [empty teacup](https://duckduckgo.com/?q=parable+of+the+full+teacup)
+* Willingness to communicate with respect and humility - appreciate others' time and effort. Don't blog or monologue too much. When someone teaches you, a simple "I understand now, thank you!" can work wonders. [The signals we give should be clear...](https://www.poetryfoundation.org/poems/58264/a-ritual-to-read-to-each-other)
+* Emotional awareness - we are not [vulcans](http://memory-alpha.wikia.com/wiki/Vulcan) or [sea-lions](http://knowyourmeme.com/memes/sea-lioning). If you ignore or deride human emotion, you're [much less rational](https://studentactivism.net/2014/10/16/dude-debate-and-the-cult-of-rationalism/) than you think you are.
+* [Emotional labor](https://en.wikipedia.org/wiki/Emotional_labor) - this is crucial. Women often understand this concept intuitively, as do service workers and others on the ass end of power relations. Be prepared to do it, and appreciate when others are doing it.
+* Life experience - survivors of violence and oppression have empirical wisdom. Own it, respect it. Conversely, this doesn't mean we are always right - when people perpetuate their own trauma, we sometimes have to compassionately disengage. As Ruth Kluger said, ["Auschwitz was no instructional institution."](https://books.google.com/books?id=-hxMZ0mrnS4C&pg=PA65&dq=auschwitz+was+no+instructional+institution)
+* Commitment - stick around, get to know us. Many of us have been here for years. The occasional drive-by question is fine - we all have busy lives - but the channel only works if people give back.
+
 # Where can I read more?
 
 Our sister channel, [##socialism](https://freenode-socialism.github.io/), has some great [educational resources](https://freenode-socialism.github.io/educational-resources/)
