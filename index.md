@@ -113,7 +113,7 @@ We also have a [links page](/links/) but it hasn't been curated in a very long t
 
 Privately, yes. But don't publish anybody's words without their consent.
 
-Please note that this rule is hard to enforce so we can't guarantee that nobody is logging publically. Even if you write nothing, note that logs may include your metadata: join & part information, nicks, local username and ip address or hostmask.
+Please note that this rule is hard to enforce so we can't guarantee that nobody is logging publicly. Even if you write nothing, note that logs may include your metadata: join & part information, nicks, local username and ip address or hostmask.
 
 If you notice anybody else publishing nonconsensual logs, please notify us immediately so we can ban them.
 
