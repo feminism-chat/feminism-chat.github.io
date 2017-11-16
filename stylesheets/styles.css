@@ -806,3 +806,7 @@ footer {
   margin-top: -145px;
   visibility: hidden;
 }
+div.blockchain-btn {
+    position:absolute;
+    right:0%;
+}
