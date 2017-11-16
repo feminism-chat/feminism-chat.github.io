@@ -30,9 +30,9 @@ Other common web gateways (kiwiirc, freenode webchat, matrix) are banned due to 
 
 # How do I support you?
 
-* Be a social justice warrior in your everyday life
-* Participate in the channel (see below)
-* Send us bitcoin
+1. Be a social justice warrior in your everyday life
+1. Participate in the channel (see below)
+1. Send us bitcoin: [19gJSEsbmDqVemyr8ZHmKnDdSpZT1wZfTz](https://blockchain.info/address/19gJSEsbmDqVemyr8ZHmKnDdSpZT1wZfTz) ![bitcoin qr code](https://blockchain.info/qr?data=19gJSEsbmDqVemyr8ZHmKnDdSpZT1wZfTz&size=92)
 
 # What is feminism?
 
