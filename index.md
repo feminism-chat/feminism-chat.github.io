@@ -166,6 +166,12 @@ You're probably just concern trolling. But if you really care, you can educate y
 
 * Pinkwashing is a portmanteau compound word of the words pink and whitewashing. In the context of LGBT and intersex rights, it is used to describe a variety of marketing and political strategies aimed at promoting a product or an entity through an appeal to queer-friendliness, primarily by political or social activists. [--Wikipedia](https://en.wikipedia.org/wiki/Pinkwashing_(LGBT))
 
+# I heard a stereotype about feminists - is it true?
+
+We get this a lot. People get some ridiculous image of feminists in their head, and then join our channel to see for themselves, lacing their comments with false premises, loaded questions, snarky slights and bizarre assumptions.
+
+Honestly, they're all true. Even the ones which betray a lack of insight or an insular upbringing. Even the transparent regurgitations of right-wing talking points. Even the absurd ones which make no sense. Even the ones which could not possible describe an actual existing human. Especially those! Just as you always suspected, all feminists everywhere are merely a spiteful caricature projected by your own mind. We admit it! You win!!
+
 # Who wrote this page?
 
 It's [on github](https://github.com/freenode-feminism/freenode-feminism.github.io). See the [contributors list](https://github.com/freenode-feminism/freenode-feminism.github.io/graphs/contributors).
