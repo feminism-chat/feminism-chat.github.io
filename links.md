@@ -14,19 +14,17 @@ title: Links
 {: id=links-list }
 * [A Megahbite of Feminism](http://megan.geek.nz/){: .Tech}
 * [Amy Dentata](http://amydentata.com/){: .GSRM}
-* [Anarchafeminist Hackerhive](https://www.noisebridge.net/wiki/Anarchafeminist_Hackerhive){: .Organisations}
-* [Bi Radical](https://radicalbi.wordpress.com/){: .GSRM} 
+* [Anarchafeminist Hackerhive](https://www.noisebridge.net/wiki/Anarchafeminist_Hackerhive){: .Organisations .inactive}
+* [Bi Radical](https://radicalbi.wordpress.com/){: .GSRM .inactive} 
 * [BITCH Magazine](http://bitchmagazine.org/){: .Media-Representation}
-* [Crazy Like Us?](https://feministmentalhealthuk.wordpress.com/){: .disability}
+* [Crazy Like Us?](https://feministmentalhealthuk.wordpress.com/){: .disability .inactive}
 * [Dances With Fat Blog](https://danceswithfat.wordpress.com/blog/){: .Fat-Acceptance}
 * [Escher Girls](http://eschergirls.tumblr.com/){: .Media-Representation}
-* [FWD/Forward: FWD \(feminists with disabilities\)](http://disabledfeminists.com/){: .disability}
+* [FWD/Forward: FWD \(feminists with disabilities\)](http://disabledfeminists.com/){: .disability .archive}
 * [Geek Feminism Blog](http://geekfeminism.org/){: .Tech}
 * [Geek Feminism Wiki](http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki){: .Tech}
-* [Gender Blog **(Deutsch)**](http://genderblog.de/){: .intersectional}
 * [I am not Haraam](http://iamnotharaam.tumblr.com/){: .Religion}
 * [inchoaterica](http://inchoaterica.wordpress.com/){: .GSRM} 
-* [Infoladen **(Deutsch & English)**](http://as-laden.info/){: .GSRM}
 * [Irish Feminist Network](http://www.irishfeministnetwork.org/){: .Organisations}
 * [Jewish Women's Archive](http://jwa.org/blog){: .Religion}
 * [Loolwa Khazzoom's Blog](http://loolwa.com/blog/){: .Politics}
@@ -35,14 +33,13 @@ title: Links
 * [Projekt L **(Deutsch & English)**](http://www.lookism.info/){: .lookism}
 * [Queer Under All Conditions](http://queerunderallconditions.tumblr.com/){: .Zines} 
 * [Queer Zine Archive Project](http://www.qzap.org/){: .Zines} 
-* [Racialicious](http://www.racialicious.com/){: .Race}
 * [Rosa Antifa Wien **(Deutsch)**](https://www.raw.at/){: .anarchism deutsch}
 * [Shapely Prose Archives](http://kateharding.net/){: .Fat-Acceptance} 
-* [Sincerely, Natalie Reed](http://freethoughtblogs.com/nataliereed){: .GSRM}
+* [Sincerely, Natalie Reed](http://freethoughtblogs.com/nataliereed){: .GSRM .archive}
 * [Slacktivist](http://www.patheos.com/blogs/slacktivist/){: .Religion}
 * [Socialism, Anarchism And Feminism](http://theanarchistlibrary.org/library/carol-ehrlich-socialism-anarchism-and-feminism){: .anarchism}
 * [Stanford Encyclopedia of Philosophy: Topics in Feminism](http://plato.stanford.edu/entries/feminism-topics/){: .Philosophy .Theory}
-* [The Angry Black Woman](http://theangryblackwoman.com/){: .Race}
+* [The Angry Black Woman](http://theangryblackwoman.com/){: .Race .inactive}
 * [The Crunk Feminst Collective](http://crunkfeministcollective.wordpress.com/){: .Race}
 * [The Fat Nutritionist](http://www.fatnutritionist.com/){: .Fat-Acceptance} 
 * [The Feminist eZine](http://www.feministezine.com/feminist/){: .Zines} 
