@@ -154,7 +154,7 @@ Our channel is regularly targeted by abusive and persistent trolls. Freenode onl
 
 # Who gets voice (+v)?
 
-Long story. We used to only give [+v](https://freenode.net/kb/answer/channelmodes) to non-men (i.e. women and nonbinary-gendered people - we called this "Misandry Mode"), then we gave it to all channel regulars, and lately we haven't bothered to hand it to new people since the channel is rarely [+m](https://freenode.net/kb/answer/channelmodes) anymore. So it doesn't mean anything.
+Nobody. We took [+V](https://freenode.net/kb/answer/channelmodes) away from everybody. The few remaining people with [+v](https://freenode.net/kb/answer/channelmodes) will lose it on their next netsplit.
 
 # How can you support Muslims? Islam is sexist!
 
