@@ -182,7 +182,7 @@ Tell us your favorite balloon animal.
 
 # Who are the moderators?
 
-@el \| @ferret_tails \| @kitties \| [@yar](https://github.com/yardenac)
+@el \| @ferret_tails \| @kitties \| @krup \| [@yar](https://github.com/yardenac)
 
 Feel free to contact any of the moderators on IRC, if you have any issues or questions.
 
