@@ -57,10 +57,14 @@ All around the world, not just in the USA. So please don't be US-centric.
 
 # Can I talk about anything I want?
 
-No. Please don't talk about these topics:
-1. your recreational drug use (including alcohol)
-1. your personal sexual exploits
-1. public displays of affection and flirting
+No. Please avoid the following:
+1. Discussing recreational drug use (including alcohol)
+1. Discussing your sexual exploits or those of others (including seeking dating advice)
+1. Engaging in public displays of affection or flirting with others in the channel
+
+Within the context of feminist discussion we will tolerate related discussion on these topics where appropriate unless they become a distraction from the original discussion, become gratuitous, are clearly boastful, or there are requests for the topic to stop. 
+
+Please consider using trigger/content warnings, or seeking consent to discuss these topics from other active participants before doing so. As with any discussion, please move on respectfully if you are asked to.
 
 New people are especially encouraged to stay on-topic. We prefer that people always talk about feminism, but are more willing to be lenient with long-time contributors.
 
