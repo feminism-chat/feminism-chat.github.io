@@ -138,6 +138,9 @@ Apologize. Accept criticism in a principled manner, retract or change your comme
 
 If you try to fight with the mods, you will probably be banned.
 
+
+* ''We built a structure that would presume that we were complicit ... based on principles of loving rather than punitive accountability'' [--Lisa Millbank](https://radtransfem.tumblr.com/post/58423967081/the-problem-with-privilege)
+
 # I've been banned. How do I get back in?
 
 Ask an op. We'll probably want you to apologize and prove that you've changed. Don't get your hopes up. Don't try to rejoin - we hate ban evasion.
