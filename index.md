@@ -18,19 +18,17 @@ To connect feminists with each other. To raise consciousness. To bring feminists
 
 # How do I connect?
 
+We've been on [freenode](https://en.wikipedia.org/wiki/Freenode) since 2012, but have now moved to [libera.chat](https://libera.chat/).
+
 We recommend installing an IRC client:
-1. Connect it to `chat.freenode.net:6697`
-2. [Register your nick](https://freenode.net/kb/answer/registration)
+1. Connect it to `irc.libera.chat:6697`
+2. [Register your nick](https://libera.chat/guides/registration)
 3. [Obtain a cloak](/cloak/) (optional)
 4. Join `##feminism`
 
-If you can't install a client, [IRCCloud](https://irccloud.com) offers "trial" accounts for no cost. Make sure you select the freenode network. You'll get a gateway cloak automatically.
+If you can't install a client, [IRCCloud](https://irccloud.com) offers "trial" accounts for no cost. Make sure you select the liberachat network. You'll get a gateway cloak automatically.
 
-Other common web gateways (kiwiirc, freenode webchat, matrix) are banned due to repeated misuse.
-
-# Are you moving to libera.chat?
-
-Yes. Like many other communities, we are planning to move from [freenode](https://en.wikipedia.org/wiki/Freenode) to [libera.chat](https://libera.chat/) in the wake of Andrew Lee's hostile takeover. But we're waiting for things to settle on libera before making the move official and deprecating the old channel on freenode (aka free*****nope*****)
+Other common web gateways (kiwiirc, matrix) are banned due to repeated misuse.
 
 # How do I support you?
 
@@ -154,10 +152,6 @@ Ask an op. We'll probably want you to apologize and prove that you've changed. D
 If you want to say racist, sexist, homophobic, ableist or other oppressive things, go say them elsewhere. Preferably where nobody can hear you. Also you should be ashamed of yourself, and possibly punched.
 
 We're not authoritarian or fascist. We're anti-authoritarian and anti-fascist. If you're authoritarian or fascist, get lost. We see no contradictions here.
-
-# Why was I banned from #feminism?
-
-Our channel is named ##feminism - note the two hash characters. We do not control #feminism. The operators of #feminism quit irc years ago, and banned everybody from their channel, including us. Ideally we'd like it to redirect to ##feminism, but freenode won't transfer ownership because of [channel naming rules](https://freenode.net/policies).
 
 # Why did [xyz] get banned?
 
