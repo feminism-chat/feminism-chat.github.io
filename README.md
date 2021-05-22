@@ -1,6 +1,6 @@
-freenode-feminism.github.io
+feminism-chat.github.io
 =============================
 
 This is a website for our IRC channel, freenode.##feminism
 
-See it here: https://freenode-feminism.github.io/
+See it here: https://feminism-chat.github.io/

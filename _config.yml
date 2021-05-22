@@ -1,7 +1,7 @@
 server: true
 page_title: "##feminism FAQ"
 title: "##feminism FAQ"
-tagline: Freenode Feminism - Frequently Asked Questions
-repository_url: https://github.com/freenode-feminism/freenode-feminism.github.io/
+tagline: Feminism Chat Room - Frequently Asked Questions
+repository_url: https://github.com/feminism-chat/feminism-chat.github.io/
 permalink: pretty
 markdown: kramdown

@@ -14,7 +14,7 @@ No, we are actual feminists. Not trolls, not a parody.
 
 # Why does this chat exist?
 
-To connect feminists with each other. To raise consciousness. To bring feminists to freenode and freenode to feminists. To improve feminism, and to be better feminists. To provide us with a friendly place to talk, learn and change the world.
+To connect feminists with each other. To raise consciousness. To bring feminists to irc and irc to feminists. To improve feminism, and to be better feminists. To provide us with a friendly place to talk, learn and change the world.
 
 # How do I connect?
 
@@ -27,6 +27,10 @@ We recommend installing an IRC client:
 If you can't install a client, [IRCCloud](https://irccloud.com) offers "trial" accounts for no cost. Make sure you select the freenode network. You'll get a gateway cloak automatically.
 
 Other common web gateways (kiwiirc, freenode webchat, matrix) are banned due to repeated misuse.
+
+# Are you moving to libera.chat?
+
+Yes. Like many other communities, we are planning to move from [freenode](https://en.wikipedia.org/wiki/Freenode) to [libera.chat](https://libera.chat/) in the wake of Andrew Lee's hostile takeover. But we're waiting for things to settle on libera before making the move official and deprecating the old channel on freenode (aka free*****nope*****)
 
 # How do I support you?
 
@@ -157,11 +161,7 @@ Our channel is named ##feminism - note the two hash characters. We do not contro
 
 # Why did [xyz] get banned?
 
-Our channel is regularly targeted by abusive and persistent trolls. Freenode only allows a limited number of channel bans, so our bot has to rotate them. This means many previous trolls are able to join for a few seconds before being re-banned. Please trust that there's a good reason. Moderating this channel is already emotionally exhausting enough without having to rehash everything on demand, especially to newcomers.
-
-# Who gets voice (+v)?
-
-Nobody. We took [+V](https://freenode.net/kb/answer/channelmodes) away from everybody. The few remaining people with [+v](https://freenode.net/kb/answer/channelmodes) will lose it on their next netsplit.
+Our channel is regularly targeted by abusive and persistent trolls. IRC only allows a limited number of channel bans, so our bot has to rotate them. This means many previous trolls are able to join for a few seconds before being re-banned. Please trust that there's a good reason. Moderating this channel is already emotionally exhausting enough without having to rehash everything on demand, especially to newcomers.
 
 # How can you support Muslims? Islam is sexist!
 
@@ -181,7 +181,7 @@ Honestly, they're all true. Even the ones which betray a lack of insight or an i
 
 # Who wrote this page?
 
-It's [on github](https://github.com/freenode-feminism/freenode-feminism.github.io). See the [contributors list](https://github.com/freenode-feminism/freenode-feminism.github.io/graphs/contributors).
+It's [on github](https://github.com/feminism-chat/feminism-chat.github.io). See the [contributors list](https://github.com/feminism-chat/feminism-chat.github.io/graphs/contributors).
 
 # I read this whole page! How do I prove it?
 
