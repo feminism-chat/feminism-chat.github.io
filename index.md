@@ -18,7 +18,7 @@ To connect feminists with each other. To raise consciousness. To bring feminists
 
 # How do I connect?
 
-We've been on [freenode](https://en.wikipedia.org/wiki/Freenode) since 2012, but have now moved to [libera.chat](https://libera.chat/).
+We've been on [freenode](https://en.wikipedia.org/wiki/Freenode) (aka free***nope***) since 2012, but have now moved to [libera.chat](https://libera.chat/).
 
 We recommend installing an IRC client:
 1. Connect it to `irc.libera.chat:6697`
